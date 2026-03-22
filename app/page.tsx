@@ -24,7 +24,7 @@ export default function Home() {
             <div className="text-gray-300 text-lg mb-8 max-w-2xl font-medium leading-relaxed space-y-4">
               <p>Wood-boring insects are a big threat to your property. They can damage your building without you even realizing it. Our team provides <em>comprehensive solutions</em> to stop these pests.</p>
               <p>Getting expert termite control in Kenya is key to protecting your building. We use top-notch equipment and proven methods to find and remove every colony. You can count on our expertise to keep your property safe for years.</p>
-              <p>For top <Link href="https://pestraid.co.ke/" className="text-white underline font-bold" target="_blank">Pestraid</Link> help, call us today at 0710907628. Or email sales@pestraid.co.ke to learn more. We're ready to help you protect your home with quality care.</p>
+              <p>For the most reliable <Link href="https://pestraid.co.ke/" className="text-white underline font-bold hover:text-red" target="_blank">Termites Control and Extermination Services in Kenya</Link>, call us today at 0710907628. Or email sales@pestraid.co.ke to learn more. We're ready to help you protect your home with quality care.</p>
             </div>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <Link href="/contact" className="bg-red text-white px-8 py-3.5 rounded-full font-bold uppercase text-sm hover:bg-red/90 transition-colors text-center shadow-lg">
@@ -75,7 +75,7 @@ export default function Home() {
               Understanding the Threat of Termites in Kenyan Homes
             </h2>
             <div className="max-w-3xl mx-auto text-gray-600 text-lg space-y-4">
-               <p>Termites are a big problem in Kenya, damaging homes and buildings. At <strong><Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Pestraid Kenya</Link></strong>, we teach homeowners about termite risks. This knowledge helps prevent and manage termite damage.</p>
+               <p>Termites are a big problem in Kenya, damaging homes and buildings. As a leading provider of <strong><Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Termite Eradication and Pre-Construction Treatments in Kenya</Link></strong>, we teach homeowners about termite risks. This knowledge helps prevent and manage termite damage.</p>
                <p>Termites can hide for a long time before damage is seen. Knowing the common termite species in Kenya is key. This knowledge helps us fight them early.</p>
             </div>
           </div>
@@ -117,14 +117,14 @@ export default function Home() {
                  Professional Termite Control Service By Pestraid Kenya
                </h2>
                <p className="text-gray-600 text-lg mb-8">
-                  <strong><Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Pestraid Kenya</Link></strong> is a leader in termite control. We protect your property from termite damage. Our methods ensure termite problems are solved, reducing future risks.
+                  If you're searching for <strong><Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">expert termite exterminators in Nairobi</Link></strong>, our team provides industry-leading solutions. We protect your property from termite damage. Our methods ensure termite problems are solved, reducing future risks.
                </p>
 
                <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
                  <div>
                     <h3 className="font-heading text-2xl font-bold uppercase text-navy mb-4">Our Approach to Integrated Pest Management</h3>
                     <div className="text-gray-600 space-y-4 mb-6">
-                       <p>At <strong><Link href="https://pestraid.co.ke/" className="text-red hover:underline" target="_blank">Pestraid Kenya</Link></strong>, we use an <strong>integrated pest management (IPM) approach</strong>. This method combines different strategies to manage termites. We identify the termite type, assess the infestation, and use targeted treatments to get rid of the colony.</p>
+                       <p>At <strong><Link href="https://pestraid.co.ke/" className="text-red hover:underline" target="_blank">commercial and residential termite control services</Link></strong>, we use an <strong>integrated pest management (IPM) approach</strong>. This method combines different strategies to manage termites. We identify the termite type, assess the infestation, and use targeted treatments to get rid of the colony.</p>
                        <p>Our IPM strategy includes:</p>
                        <ul className="space-y-2 list-disc pl-5 font-medium text-gray-700">
                           <li>Conducting thorough inspections to detect termite activity</li>
@@ -184,7 +184,7 @@ export default function Home() {
              <div>
                 <h2 className="font-heading text-3xl font-black uppercase text-navy border-b-4 border-red pb-3 mb-6 inline-block">Preparing Your Property for a Professional Termite Inspection</h2>
                 <div className="text-gray-600 space-y-4 mb-8">
-                   <p>To get ready for a termite inspection, there are a few steps you can take. At <Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Pestraid Kenya</Link>, we know a well-prepared property is key for our team to do a thorough check. Clearing access points, documenting termite signs, and following safety rules can make the inspection smoother.</p>
+                   <p>To get ready for a termite inspection, there are a few steps you can take. When booking a <Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">professional termite inspection service in Kenya</Link>, we know a well-prepared property is key for our team to do a thorough check. Clearing access points, documenting termite signs, and following safety rules can make the inspection smoother.</p>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
                    <div className="bg-gray-50 p-6 rounded-lg text-sm text-gray-700">
@@ -286,7 +286,7 @@ export default function Home() {
                 <div>
                   <h2 className="font-heading text-2xl font-black uppercase text-navy border-b-4 border-red pb-3 mb-6 inline-block">Utilizing Advanced Baiting Systems for Colony Elimination</h2>
                   <div className="text-gray-600 space-y-4 text-sm mt-4">
-                     <p>At <Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Pestraid</Link>, we use advanced <strong>termite baiting systems</strong> to get rid of termite colonies. This protects homes in Kenya. Our method targets the heart of the problem, giving long-term relief from termite damage.</p>
+                     <p>When providing <Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">professional termite baiting and monitoring in Kenya</Link>, we use advanced <strong>termite baiting systems</strong> to get rid of termite colonies. This protects homes in Kenya. Our method targets the heart of the problem, giving long-term relief from termite damage.</p>
                      <h3 className="font-heading text-lg font-bold uppercase text-navy">How Bait Stations Disrupt the Termite Life Cycle</h3>
                      <p><strong>Bait stations</strong> are set up around homes to catch termites looking for food. Inside these stations, there's bait that termites eat and share with their colony. <strong>The bait is slow-acting</strong>, letting termites go back to their colony and share it with others, including the queen. This method makes sure the whole colony is hit, leading to its demise. Our team picks the right bait for the termite type and how bad the infestation is.</p>
                      <h3 className="font-heading text-lg font-bold uppercase text-navy">Monitoring and Replacing Bait for Continuous Control</h3>
@@ -366,7 +366,7 @@ export default function Home() {
                    {/* Col 2 */}
                    <div className="space-y-4 text-sm text-gray-600 bg-gray-50 p-6 rounded-xl border border-gray-200">
                       <h3 className="font-heading text-xl font-bold uppercase text-navy mb-4">Post-Treatment Monitoring and Maintenance Strategies</h3>
-                      <p>Effective <strong>termite management</strong> doesn't stop after treatment. It needs ongoing monitoring and maintenance. At <Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Pestraid Kenya</Link>, we know keeping your property safe is key.</p>
+                      <p>Effective <strong>termite management</strong> doesn't stop after treatment. It needs ongoing monitoring and maintenance. Through our comprehensive <Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">post-construction termite monitoring services</Link>, we know keeping your property safe is key.</p>
                       <p>We suggest a few steps to keep your home safe. These include regular checks, keeping your home's perimeter clear, and knowing what to do if termites come back.</p>
 
                       <h4 className="font-bold text-black mt-4">Scheduling Regular Follow-up Inspections</h4>
@@ -404,7 +404,7 @@ export default function Home() {
                    <div className="space-y-4 text-sm text-gray-600 bg-gray-50 p-6 rounded-xl border border-gray-200">
                       <h3 className="font-heading text-xl font-bold uppercase text-navy mb-4">Common Mistakes to Avoid When Dealing with Termites</h3>
                       <p>When dealing with termites, knowing common mistakes is key. Termites can damage structures a lot if not handled right. It's important to avoid these mistakes for effective termite control.</p>
-                      <p>At <Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Pestraid Kenya</Link>, we've seen many homeowners make the same errors. Knowing these mistakes helps you deal with termites better. It ensures you protect your property well.</p>
+                      <p>As the providers of the best <Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Termites Control and Extermination Services in Kenya</Link>, we've seen many homeowners make the same errors. Knowing these mistakes helps you deal with termites better. It ensures you protect your property well.</p>
 
                       <h4 className="font-bold text-black mt-4">Ignoring Small Mud Tubes and Discarded Wings</h4>
                       <p>Ignoring early signs of termites is a big mistake. Signs like <strong>mud tubes</strong> and <strong>discarded wings</strong> mean termites are around. Mud tubes show subterranean termites moving between their colonies and food.</p>
@@ -437,7 +437,7 @@ export default function Home() {
                 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 relative z-10">
                    <div className="space-y-6">
-                      <p className="text-gray-300">Choosing <Link href="https://pestraid.co.ke/" className="text-white hover:underline font-bold" target="_blank">Pestraid Kenya</Link> for termite control is a smart move. Our <strong>termite management</strong> services are designed to protect your property. They also give you peace of mind.</p>
+                      <p className="text-gray-300">Choosing a specialist for <Link href="https://pestraid.co.ke/" className="text-white hover:underline font-bold" target="_blank">Termite Control and Preventive Treatments in Kenya</Link> is a smart move. Our <strong>termite management</strong> services are designed to protect your property. They also give you peace of mind.</p>
                       
                       <div>
                          <h3 className="font-heading text-xl font-bold uppercase text-red mb-2">Our Commitment to Quality and Customer Satisfaction</h3>
@@ -512,7 +512,7 @@ export default function Home() {
                 <div className="bg-gray-light p-10 md:p-16 rounded-2xl border-l-8 border-navy mb-16 shadow-lg">
                    <h2 className="font-heading text-3xl font-black uppercase text-navy mb-4">Conclusion</h2>
                    <div className="text-gray-600 space-y-4 text-lg">
-                     <p>Protecting your property in Kenya from termites is key. At <strong><Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Pestraid Kenya</Link></strong>, we offer top-notch termite control services. These services are designed to keep your property safe from these pests for a long time.</p>
+                     <p>Protecting your property in Kenya from termites is key. We offer top-notch <strong><Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Termites Control and Extermination Services in Kenya</Link></strong>. These services are designed to keep your property safe from these pests for a long time.</p>
                      <p>Our team works hard to provide reliable termite control. We start with an inspection, then move on to treatment and monitoring after. We use the latest methods and tools to keep your property termite-free.</p>
                      <p>If you need reliable termite control services, call us at <strong>0710907628</strong>. We'll tell you more about our services and how we can help protect your property.</p>
                      <p>Choosing Pestraid Kenya means you're in good hands for termite management. We aim to meet your expectations with our termite control services.</p>
@@ -564,7 +564,7 @@ export default function Home() {
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
                       <h3 className="font-heading font-bold text-red uppercase mb-2">Why is it a mistake to delay professional intervention?</h3>
-                      <p className="text-gray-600">Termites work all the time and can damage your home quickly. Ignoring signs or using ineffective sprays lets the problem grow. Getting help from <Link href="https://pestraid.co.ke/" className="text-navy font-bold hover:underline" target="_blank">Pestraid Kenya</Link> early saves you from costly repairs later.</p>
+                      <p className="text-gray-600">Termites work all the time and can damage your home quickly. Ignoring signs or using ineffective sprays lets the problem grow. Getting help from <Link href="https://pestraid.co.ke/" className="text-navy font-bold hover:underline" target="_blank">certified termite control professionals in Kenya</Link> early saves you from costly repairs later.</p>
                    </div>
                    <div className="bg-white p-6 rounded-xl border border-gray-100 shadow-sm">
                       <h3 className="font-heading font-bold text-red uppercase mb-2">How can I book a service or get a quote from Pestraid Kenya?</h3>

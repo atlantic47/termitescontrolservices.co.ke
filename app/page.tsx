@@ -22,7 +22,7 @@ export default function Home() {
               RELIABLE TERMITE<br/>CONTROL SERVICES<br/><span className="text-red">IN KENYA</span>
             </h1>
             <div className="text-gray-300 text-lg mb-8 max-w-2xl font-medium leading-relaxed space-y-4">
-              <p>Wood-boring insects are a big threat to your property. They can damage your building without you even realizing it. Our team provides <em>comprehensive solutions</em> to stop these pests.</p>
+              <p>Wood-boring insects are a big threat to your property. They can damage your building without you even realizing it. Our team provides <Link href="https://www.exterminate.co.ke/" className="text-white underline hover:text-red transition-colors font-bold" target="_blank">professional extermination services</Link> to stop these pests.</p>
               <p>Getting expert termite control in Kenya is key to protecting your building. We use top-notch equipment and proven methods to find and remove every colony. You can count on our expertise to keep your property safe for years.</p>
               <p>For the most reliable <Link href="https://pestraid.co.ke/" className="text-white underline font-bold hover:text-red" target="_blank">Termites Control and Extermination Services in Kenya</Link>, call us today at 0710907628. Or email sales@pestraid.co.ke to learn more. We're ready to help you protect your home with quality care.</p>
             </div>
@@ -124,7 +124,7 @@ export default function Home() {
                  <div>
                     <h3 className="font-heading text-2xl font-bold uppercase text-navy mb-4">Our Approach to Integrated Pest Management</h3>
                     <div className="text-gray-600 space-y-4 mb-6">
-                       <p>At <strong><Link href="https://pestraid.co.ke/" className="text-red hover:underline" target="_blank">commercial and residential termite control services</Link></strong>, we use an <strong>integrated pest management (IPM) approach</strong>. This method combines different strategies to manage termites. We identify the termite type, assess the infestation, and use targeted treatments to get rid of the colony.</p>
+                       <p>To provide top-tier <strong><Link href="https://pestraid.co.ke/" className="text-red hover:underline" target="_blank">commercial and residential termite control services</Link></strong>, we use an <strong><Link href="https://www.exterminate.co.ke/" className="text-navy hover:text-red underline transition-colors" target="_blank">integrated pest management and extermination approach</Link></strong>. This method combines different strategies to manage termites. We identify the termite type, assess the infestation, and use targeted treatments to get rid of the colony.</p>
                        <p>Our IPM strategy includes:</p>
                        <ul className="space-y-2 list-disc pl-5 font-medium text-gray-700">
                           <li>Conducting thorough inspections to detect termite activity</li>

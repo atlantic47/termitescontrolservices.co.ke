@@ -75,7 +75,7 @@ export default function Home() {
               Understanding the Threat of Termites in Kenyan Homes
             </h2>
             <div className="max-w-3xl mx-auto text-gray-600 text-lg space-y-4">
-               <p>Termites are a big problem in Kenya, damaging homes and buildings. As a leading provider of <strong><Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">Termite Eradication and Pre-Construction Treatments in Kenya</Link></strong>, we teach homeowners about termite risks. This knowledge helps prevent and manage termite damage.</p>
+               <p>Termites are a big problem in Kenya, damaging homes and buildings. As a leading provider of <strong><Link href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" className="text-red font-bold hover:underline" target="_blank">Termite Eradication and Pre-Construction Treatments in Kenya</Link></strong>, we teach homeowners about termite risks. This knowledge helps prevent and manage termite damage.</p>
                <p>Termites can hide for a long time before damage is seen. Knowing the common termite species in Kenya is key. This knowledge helps us fight them early.</p>
             </div>
           </div>
@@ -124,7 +124,7 @@ export default function Home() {
                  <div>
                     <h3 className="font-heading text-2xl font-bold uppercase text-navy mb-4">Our Approach to Integrated Pest Management</h3>
                     <div className="text-gray-600 space-y-4 mb-6">
-                       <p>To provide top-tier <strong><Link href="https://pestraid.co.ke/" className="text-red hover:underline" target="_blank">commercial and residential termite control services</Link></strong>, we use an <strong><Link href="https://www.exterminate.co.ke/" className="text-navy hover:text-red underline transition-colors" target="_blank">integrated pest management and extermination approach</Link></strong>. This method combines different strategies to manage termites. We identify the termite type, assess the infestation, and use targeted treatments to get rid of the colony.</p>
+                       <p>To provide top-tier <strong><Link href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" className="text-red hover:underline" target="_blank">commercial and residential termite control services</Link></strong>, we use an <strong><Link href="https://www.exterminate.co.ke/" className="text-navy hover:text-red underline transition-colors" target="_blank">integrated pest management and extermination approach</Link></strong>. This method combines different strategies to manage termites. We identify the termite type, assess the infestation, and use targeted treatments to get rid of the colony.</p>
                        <p>Our IPM strategy includes:</p>
                        <ul className="space-y-2 list-disc pl-5 font-medium text-gray-700">
                           <li>Conducting thorough inspections to detect termite activity</li>
@@ -286,7 +286,7 @@ export default function Home() {
                 <div>
                   <h2 className="font-heading text-2xl font-black uppercase text-navy border-b-4 border-red pb-3 mb-6 inline-block">Utilizing Advanced Baiting Systems for Colony Elimination</h2>
                   <div className="text-gray-600 space-y-4 text-sm mt-4">
-                     <p>When providing <Link href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank">professional termite baiting and monitoring in Kenya</Link>, we use advanced <strong>termite baiting systems</strong> to get rid of termite colonies. This protects homes in Kenya. Our method targets the heart of the problem, giving long-term relief from termite damage.</p>
+                     <p>When providing <Link href="https://pestraid.co.ke/services/termites-control-services-and-pricing-in-kenya/" className="text-red font-bold hover:underline" target="_blank">professional termite baiting and monitoring in Kenya</Link>, we use advanced <strong>termite baiting systems</strong> to get rid of termite colonies. This protects homes in Kenya. Our method targets the heart of the problem, giving long-term relief from termite damage.</p>
                      <h3 className="font-heading text-lg font-bold uppercase text-navy">How Bait Stations Disrupt the Termite Life Cycle</h3>
                      <p><strong>Bait stations</strong> are set up around homes to catch termites looking for food. Inside these stations, there's bait that termites eat and share with their colony. <strong>The bait is slow-acting</strong>, letting termites go back to their colony and share it with others, including the queen. This method makes sure the whole colony is hit, leading to its demise. Our team picks the right bait for the termite type and how bad the infestation is.</p>
                      <h3 className="font-heading text-lg font-bold uppercase text-navy">Monitoring and Replacing Bait for Continuous Control</h3>

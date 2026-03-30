@@ -100,8 +100,8 @@ export default function Home() {
             <div className="bg-gray-light rounded-xl overflow-hidden shadow-sm group hover:shadow-xl transition-shadow border border-gray-border p-8 border-t-4 border-t-navy">
                 <h3 className="font-heading text-xl font-bold uppercase mb-4 text-navy">Why Kenyan Climate Conditions Favor Termite Infestations</h3>
                 <div className="text-gray-600 space-y-4 text-sm">
-                   <p>Kenya's climate is perfect for termites. The warm weather and humidity let them grow well.</p>
-                   <p>Knowing how climate affects termites helps us prevent them. Keeping homes dry can keep termites away.</p>
+                   <p>Kenya's climate is perfect for termites. The warm weather and humidity let them grow well. High humidity also encourages mold growth, so ensuring proper ventilation is essential.</p>
+                   <p>Knowing how climate affects termites helps us prevent them. Keeping homes dry can keep termites away, and if you already suspect fungal damage, we highly recommend consulting professionals for <a href="https://moldguardkenya.co.ke/" target="_blank" rel="dofollow noopener noreferrer" className="text-navy font-bold hover:underline" title="Mold Removal in Kenya">mold removal in Kenya</a>.</p>
                 </div>
             </div>
           </div>
@@ -247,7 +247,7 @@ export default function Home() {
                    <p>Trenching and rodding help us apply termiticide well. Trenching digs a shallow trench around buildings. Rodding drills holes and injects termiticide into the soil. Both methods make sure the termiticide reaches the soil. Our team knows how to do both trenching and rodding. We pick the best method based on the property and termite problem.</p>
 
                    <h3 className="font-heading text-xl font-bold uppercase text-navy">Ensuring Environmental Safety During Chemical Application</h3>
-                   <p>We care a lot about the environment when using chemicals. Our team follows strict rules to avoid harming the environment. We use the least amount of termiticide needed and apply it carefully. We also think about the soil and local plants when choosing termiticides. This makes sure our methods are safe for the environment.</p>
+                   <p>We care a lot about the environment when using chemicals. Our team follows strict rules to avoid harming the environment. We use the least amount of termiticide needed and apply it carefully. We also think about the soil and local plants when choosing termiticides. This makes sure our methods are safe for the environment. If your property's environmental safety is compromised by fungi, explore expert <a href="https://moldguardkenya.co.ke/services" target="_blank" rel="dofollow noopener noreferrer" className="text-navy font-bold hover:underline" title="Professional Mold Control Services">professional mold control services</a>.</p>
 
                    <div className="overflow-x-auto my-6">
                       <table className="w-full text-sm text-left border-collapse border border-gray-200">
@@ -316,7 +316,7 @@ export default function Home() {
                      <p>Spotting termites early is key to avoiding big damage. Look for <em>mud tubes</em> on walls, floors, or ceilings. Also, watch for discarded wings near windows or doors. Check your wood floors and frames often. Look for damage like discoloration, sagging, or weak spots.</p>
                      
                      <h3 className="font-heading text-lg font-bold uppercase text-navy">Preventative Maintenance Tips for Homeowners</h3>
-                     <p>Keeping wood safe is a big job. Keep firewood and cellulose away from your home. Also, control moisture and ensure good air flow.</p>
+                     <p>Keeping wood safe is a big job. Keep firewood and cellulose away from your home. Also, control moisture and ensure good air flow. Good ventilation not only deters termites but keeps you from needing <a href="https://moldguardkenya.co.ke/" target="_blank" rel="dofollow noopener noreferrer" className="text-navy font-bold hover:underline" title="Mold Remediation in Kenya">mold remediation in Kenya</a>.</p>
                      
                      <div className="overflow-x-auto mt-4">
                         <table className="w-full text-xs text-left border-collapse border border-gray-200">
@@ -330,7 +330,7 @@ export default function Home() {
                           <tbody>
                             <tr><td className="px-3 py-2 border font-bold">Regular Inspections</td><td className="px-3 py-2 border">Check for termites and damage often.</td><td className="px-3 py-2 border">Find problems early.</td></tr>
                             <tr><td className="px-3 py-2 border font-bold"><strong>Wood Preservatives</strong></td><td className="px-3 py-2 border">Use preservatives on at-risk wood.</td><td className="px-3 py-2 border">Keep termites away.</td></tr>
-                            <tr><td className="px-3 py-2 border font-bold">Moisture Control</td><td className="px-3 py-2 border">Keep moisture levels low.</td><td className="px-3 py-2 border">Make it hard for termites to thrive.</td></tr>
+                            <tr><td className="px-3 py-2 border font-bold">Moisture Control</td><td className="px-3 py-2 border">Keep moisture levels low.</td><td className="px-3 py-2 border">Make it hard for termites to thrive and avoid the need for <a href="https://moldguardkenya.co.ke/services" target="_blank" rel="dofollow noopener noreferrer" className="text-navy font-bold hover:underline" title="Mold Remediation Services">expert mold remediation services</a>.</td></tr>
                           </tbody>
                         </table>
                      </div>

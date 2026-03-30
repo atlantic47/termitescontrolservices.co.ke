@@ -36,7 +36,7 @@ export default function About() {
                  Subterranean termites pose a massive threat to Kenyan homes. Our mission is to educate property owners, implement cutting-edge termite baiting and soil barrier systems, and completely eliminate wood-boring threats from your premises.
               </p>
               <p className="text-gray-600 mb-8 leading-relaxed">
-                 By leveraging years of experience, we tackle termite colonies at the source. If you are struggling with other pests, we proudly partner with <a href="https://pestraid.co.ke/" className="text-red font-semibold hover:underline" target="_blank" rel="noopener noreferrer">Pestraid Kenya</a>, who offer the strongest <a href="https://pestraid.co.ke/" className="text-red font-semibold hover:underline" target="_blank" rel="noopener noreferrer">professional pest control services in Kenya</a>.
+                 By leveraging years of experience, we tackle termite colonies at the source. If you are struggling with other pests, we proudly partner with <a href="https://pestraid.co.ke/" className="text-red font-semibold hover:underline" target="_blank" rel="noopener noreferrer">Pestraid Kenya</a>, who offer the strongest <a href="https://pestraid.co.ke/" className="text-red font-semibold hover:underline" target="_blank" rel="noopener noreferrer">professional pest control services in Kenya</a>. Should you also face complications with dampness, checking out top-tier <a href="https://moldguardkenya.co.ke/" className="text-red font-semibold hover:underline" target="_blank" rel="dofollow noopener noreferrer" title="Mold Inspection and Eradication">mold inspection and eradication in Kenya</a> is highly advised.
               </p>
 
               <ul className="space-y-4 mb-8">

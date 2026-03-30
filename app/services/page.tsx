@@ -25,7 +25,7 @@ export default function Services() {
               Protecting your property from subterranean and drywood termites requires expert diagnosis and specialized treatment. We provide the most effective <strong>termite treatment in Nairobi</strong> and beyond.
             </p>
             <p className="text-gray-600 max-w-2xl mx-auto">
-              Our holistic approach uses a combination of liquid barriers and bait stations. For broader pest management such as rodents or roaches, we highly recommend the <a href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank" rel="noopener noreferrer">fumigation experts at Pestraid Kenya</a>.
+              Our holistic approach uses a combination of liquid barriers and bait stations. For broader pest management such as rodents or roaches, we highly recommend the <a href="https://pestraid.co.ke/" className="text-red font-bold hover:underline" target="_blank" rel="noopener noreferrer">fumigation experts at Pestraid Kenya</a>. If your structure has suffered from excess moisture, consider leveraging professional <a href="https://moldguardkenya.co.ke/services" className="text-red font-bold hover:underline" target="_blank" rel="dofollow noopener noreferrer" title="Premium Mold Control Services">mold control services</a> to restore a healthy environment.
             </p>
          </div>
 

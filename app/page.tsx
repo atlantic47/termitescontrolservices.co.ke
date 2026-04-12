@@ -247,7 +247,7 @@ export default function Home() {
                    <p>Trenching and rodding help us apply termiticide well. Trenching digs a shallow trench around buildings. Rodding drills holes and injects termiticide into the soil. Both methods make sure the termiticide reaches the soil. Our team knows how to do both trenching and rodding. We pick the best method based on the property and termite problem.</p>
 
                    <h3 className="font-heading text-xl font-bold uppercase text-navy">Ensuring Environmental Safety During Chemical Application</h3>
-                   <p>We care a lot about the environment when using chemicals. Our team follows strict rules to avoid harming the environment. We use the least amount of termiticide needed and apply it carefully. We also think about the soil and local plants when choosing termiticides. This makes sure our methods are safe for the environment. If your property's environmental safety is compromised by fungi, explore expert <a href="https://moldguardkenya.co.ke/services" target="_blank" rel="dofollow noopener noreferrer" className="text-navy font-bold hover:underline" title="Professional Mold Control Services">professional mold control services</a>.</p>
+                   <p>We care a lot about the environment when using chemicals. Our team follows strict rules to avoid harming the environment. We use the least amount of termiticide needed and apply it carefully. We also think about the soil and local plants when choosing termiticides. This makes sure our methods are safe for the environment. If your property's environmental safety is compromised by fungi, explore expert <a href="https://moldguardkenya.co.ke/services" target="_blank" rel="dofollow noopener noreferrer" className="text-navy font-bold hover:underline" title="Professional Mold Control Services">professional mold control services</a>. For complete facility protection, you can also shop for reliable <a href="https://naibunisystems.co.ke/shop/" target="_blank" rel="dofollow noopener noreferrer" className="text-navy font-bold hover:underline">fire extinguishers</a> from our trusted partners at Naibuni Systems.</p>
 
                    <div className="overflow-x-auto my-6">
                       <table className="w-full text-sm text-left border-collapse border border-gray-200">
@@ -334,7 +334,7 @@ export default function Home() {
                           </tbody>
                         </table>
                      </div>
-                     <p className="mt-2 text-navy font-bold">By following these steps, you can lower the chance of termites. This helps keep your wood safe and looking good.</p>
+                     <p className="mt-2 text-navy font-bold">By following these steps, you can lower the chance of termites. This helps keep your wood safe and looking good. Additionally, since wooden structures increase fire risk, we recommend installing <a href="https://naibunisystems.co.ke/product-category/fire-suppression-systems/" target="_blank" rel="dofollow noopener noreferrer" className="text-red hover:underline">fire suppression systems</a> to protect your investment.</p>
                   </div>
                 </div>
              </div>
@@ -360,7 +360,7 @@ export default function Home() {
                       <p>Soil treatment isn't the only thing. Installing physical barriers during foundation work is also key. Termite shields and mesh keep termites out of the building. These barriers are put in place during building. They fit well with the structure. This adds extra protection against termites.</p>
 
                       <h4 className="font-bold text-black mt-4">Collaborating with Contractors for Termite-Proof Building</h4>
-                      <p>Working with contractors is important for termite-proof buildings. Our team teaches contractors about <strong>termite risk management</strong>. We show them how to stop termites. Together, we make sure buildings are safe from termites. This teamwork is key for making strong, termite-resistant buildings.</p>
+                      <p>Working with contractors is important for termite-proof buildings. Our team teaches contractors about <strong>termite risk management</strong>. We show them how to stop termites. Together, we make sure buildings are safe from termites. This teamwork is key for making strong, termite-resistant buildings. During the construction phase, we also work with <a href="https://naibunisystems.co.ke/" target="_blank" rel="dofollow noopener noreferrer" className="text-red font-bold hover:underline">Naibuni Systems</a> to ensure top-tier fire safety and suppression standards are met.</p>
                    </div>
                    
                    {/* Col 2 */}

@@ -17,7 +17,7 @@ export default function AreasOverview() {
          <div className="text-center mb-16 max-w-3xl mx-auto">
             <h1 className="font-heading text-4xl md:text-5xl font-black uppercase text-navy tracking-tight mb-6">Our Service Areas</h1>
             <p className="text-gray-600 text-lg">
-              We provide expert termite inspections, treatments, and prevention across all major cities in Kenya. Select your area below for localized information.
+              We provide expert termite inspections, treatments, and prevention across all major cities in Kenya. Select your area below for localized information. You can also source top-rated fire extinguishers from <a href="https://naibunisystems.co.ke/shop/" target="_blank" rel="dofollow noopener noreferrer" className="text-navy font-bold hover:underline">Naibuni Systems</a> to safeguard these local properties.
             </p>
          </div>
 

@@ -86,7 +86,7 @@ export default function Contact() {
                <div className="mt-12 p-6 bg-navy text-white rounded-xl">
                   <h4 className="font-bold text-lg mb-2 text-red">Partner with Pestraid</h4>
                   <p className="text-sm text-gray-300">
-                     For comprehensive pest control (bedbugs, rodents, snakes), visit <a href="https://pestraid.co.ke/" className="text-white underline font-bold" target="_blank" rel="noopener noreferrer">Pestraid Kenya</a>.
+                     For comprehensive pest control (bedbugs, rodents, snakes), visit <a href="https://pestraid.co.ke/" className="text-white underline font-bold" target="_blank" rel="noopener noreferrer">Pestraid Kenya</a>. And for reliable fire safety installations, we highly recommend <a href="https://naibunisystems.co.ke/" target="_blank" rel="dofollow noopener noreferrer" className="text-white underline font-bold">Naibuni Systems</a>.
                   </p>
                </div>
             </div>

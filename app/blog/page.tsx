@@ -16,7 +16,7 @@ export default function BlogIndex() {
          <div className="text-center mb-16 max-w-3xl mx-auto">
             <h1 className="font-heading text-4xl md:text-5xl font-black uppercase text-navy tracking-tight mb-6">Termite Control Blog</h1>
             <p className="text-gray-600 text-lg">
-              Expert advice, treatment tips, and the latest strategies to keep your property safe from devastating termite damage.
+              Expert advice, treatment tips, and the latest strategies to keep your property safe from devastating termite damage. Additionally, don't miss out on securing your home with robust fire systems from <a href="https://naibunisystems.co.ke/" target="_blank" rel="dofollow noopener noreferrer" className="text-navy font-bold hover:underline">Naibuni Systems</a>.
             </p>
          </div>
 

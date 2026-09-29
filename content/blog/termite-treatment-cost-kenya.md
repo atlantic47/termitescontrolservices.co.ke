@@ -38,30 +38,45 @@ Properties in Nairobi, Mombasa, and other major cities may attract different pri
 
 Applied before the floor slab is poured, this is the most cost-effective treatment type per square metre because soil access is unrestricted and application is straightforward.
 
-| Property Slab Size | Estimated Cost (KES) |
-|---|---|
-| Up to 80m² (small apartment or cottage) | 5,000 - 10,000 |
-| 80-150m² (2-3 bedroom house) | 8,000 - 18,000 |
-| 150-250m² (3-4 bedroom house) | 14,000 - 30,000 |
-| 250-500m² (large house or small commercial) | 25,000 - 60,000 |
-| 500m²+ (large commercial / development) | Quoted per site |
+Pestraid Kenya prices pre-construction treatment per square metre of slab footprint, with three protection tiers:
 
-These prices include all three treatment stages: foundation excavation treatment, backfill treatment, and formation level (pre-slab) treatment. Read the full process in our [Termite Treatment Before the Slab](/blog/termite-treatment-before-slab) guide.
+| Protection Period | Rate per m² (KES) | What You Get |
+|---|---|---|
+| 5-Year Protection | **KES 200 per m²** | Full 3-stage barrier treatment using registered termiticide; 5-year written warranty |
+| 8-Year Protection | **KES 250 per m²** | Premium non-repellent barrier (Fipronil-based); enhanced application rate; 8-year warranty |
+| 10-Year Protection | **KES 300 per m²** | Maximum-rate Fipronil barrier with physical penetration sealing; 10-year warranty |
+
+**Example costs (150m² slab):**
+- 5-year protection: **KES 30,000**
+- 8-year protection: **KES 37,500**
+- 10-year protection: **KES 45,000**
+
+All tiers include foundation excavation treatment, backfill treatment, sub-slab formation level treatment, service penetration sealing, treatment certificate, and all follow-up inspections within the warranty period. Read the full process in our [Termite Treatment Before the Slab](/blog/termite-treatment-before-slab) guide.
 
 ### Post-Construction Soil Barrier Treatment Cost
 
-This is the most commonly performed treatment type in Kenya for existing buildings. Pricing is typically based on the linear metres of external perimeter to be treated.
+Post-construction treatment covers buildings that are already completed. Unlike pre-construction treatment, the cost cannot be fixed to a standard per-m² rate because the extent of any existing infestation varies greatly from property to property.
 
-| Property Perimeter / Type | Estimated Cost (KES) |
-|---|---|
-| Bedsitter or 1-bedroom apartment | 8,000 - 14,000 |
-| 2-3 bedroom house | 15,000 - 30,000 |
-| 4-5 bedroom house | 28,000 - 55,000 |
-| Large mansion / multi-storey residential | 50,000 - 120,000 |
-| Small commercial building | 25,000 - 70,000 |
-| Large commercial / industrial | Quoted per site |
+**A professional inspection is required before any post-construction treatment can be quoted.**
 
-Note: Properties with extensive concrete paving, tile, or no garden access around the perimeter will attract a higher quote due to drilling requirements. Read the full treatment process in [Post Construction Termite Treatment in Kenya](/blog/post-construction-termite-treatment-kenya).
+The inspection allows Pestraid Kenya's technicians to:
+- Confirm whether an active infestation is present and how far it has spread
+- Assess which areas of the slab and perimeter require drilling and injection
+- Identify any structural timber already affected that needs direct treatment
+- Produce a fixed-price, site-specific treatment quote
+
+Contact Pestraid Kenya to book your inspection. Read the full treatment process in [Post Construction Termite Treatment in Kenya](/blog/post-construction-termite-treatment-kenya).
+
+### Termite Hill and Queen Removal Treatment
+
+Where an active termite hill (mound) is present on or near the property, elimination of the queen and full colony is required before any soil barrier treatment can be effective. Pestraid Kenya's termite hill removal service includes:
+
+- Physical mound destruction and excavation to the queen chamber
+- Direct injection of termiticide into the colony core
+- Treatment of all foraging galleries identified in the surrounding soil
+- Follow-up visit to confirm colony elimination
+
+**Starting from KES 19,500** - final cost depends on mound size, number of mounds, and extent of the infestation in the surrounding soil. Contact Pestraid Kenya for a site assessment and fixed quote.
 
 ### Termite Baiting System Cost
 
@@ -98,27 +113,31 @@ Where an active infestation has caused localized damage to specific timber eleme
 
 ## Total Cost Scenarios: What Does Complete Termite Treatment Cost?
 
-### Scenario 1: New 3-Bedroom House Under Construction
+### Scenario 1: New 3-Bedroom House Under Construction (180m² slab)
 
-- Pre-construction soil treatment (180m² slab): **KES 14,000**
-- Service penetration treatment and documentation: **KES 2,000**
-- Treatment certificate: **included**
-- **Total: approximately KES 16,000**
+| Protection Option | Cost |
+|---|---|
+| 5-year protection (KES 200/m²) | **KES 36,000** |
+| 8-year protection (KES 250/m²) | **KES 45,000** |
+| 10-year protection (KES 300/m²) | **KES 54,000** |
 
-### Scenario 2: Existing 3-Bedroom House, No Previous Treatment
+All include: foundation treatment, backfill treatment, sub-slab treatment, penetration sealing, certificate, and warranty inspections.
 
-- Professional inspection: **KES 5,000**
-- Post-construction perimeter barrier treatment: **KES 22,000**
-- Sub-slab injection (partial, at key penetration points): **KES 5,000**
-- **Total: approximately KES 32,000**
+### Scenario 2: Existing House — Post-Construction Treatment
 
-### Scenario 3: Existing House with Active Infestation
+Post-construction treatment is quoted after inspection only, as cost depends on the extent of infestation found.
 
-- Professional inspection: **KES 5,500**
-- Full post-construction barrier treatment: **KES 25,000**
-- Supplementary wood treatment (3 door frames, 2 rooms skirting): **KES 6,000**
-- Follow-up inspection (after 60 days): **included in warranty**
-- **Total: approximately KES 36,500**
+**Step 1:** Book a professional inspection (fee credited against treatment cost)
+**Step 2:** Receive a fixed-price treatment quote based on inspection findings
+**Step 3:** Treatment is carried out with a written warranty
+
+Contact Pestraid Kenya to begin the process.
+
+### Scenario 3: Property with Active Termite Hill
+
+- Termite hill / queen removal and colony treatment: **from KES 19,500**
+- Follow-up soil barrier treatment (pre- or post-construction): quoted after inspection
+- Treatment certificate and warranty: **included**
 
 ## What Is Included in the Price?
 
@@ -128,7 +147,7 @@ When you engage Pestraid Kenya for termite treatment, your quoted price includes
 - Labour for all treatment stages
 - Post-treatment sealing of all drill holes
 - A written treatment completion report
-- A treatment warranty (3-5 years depending on product)
+- A treatment warranty (5, 8, or 10 years depending on selected protection tier for pre-construction; as quoted for post-construction)
 - Scheduled follow-up inspection visits during the warranty period
 
 ## What Is NOT Included in the Price?

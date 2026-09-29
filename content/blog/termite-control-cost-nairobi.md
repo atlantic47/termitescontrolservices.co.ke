@@ -38,24 +38,17 @@ The following ranges are based on Pestraid Kenya's 2026 pricing for standard tre
 
 ### Nairobi Apartments and Flats
 
-| Apartment Size | Inspection | Post-Construction Treatment | Total Estimate |
-|---|---|---|---|
-| Bedsitter / Studio | KES 2,500 | KES 7,000 - 10,000 | KES 9,500 - 12,500 |
-| 1-Bedroom flat | KES 3,000 | KES 8,000 - 13,000 | KES 11,000 - 16,000 |
-| 2-Bedroom flat | KES 3,500 | KES 10,000 - 18,000 | KES 13,500 - 21,500 |
-| 3-Bedroom apartment | KES 4,500 | KES 14,000 - 25,000 | KES 18,500 - 29,500 |
+Post-construction treatment for apartments cannot be quoted at a fixed rate - the cost depends on the extent of any existing infestation found during inspection.
 
-*Note: Apartment treatment typically covers the unit's perimeter; ground-floor apartments require sub-slab treatment and cost more.*
+**A professional inspection is required before treatment can be quoted.** The inspection fee is credited against the treatment cost when Pestraid Kenya carries out the work.
+
+Contact Pestraid Kenya to book an inspection for your apartment.
 
 ### Nairobi Residential Houses
 
-| Property Size | Inspection | Full Post-Construction Treatment | Total Estimate |
-|---|---|---|---|
-| 2-bedroom maisonette | KES 3,500 | KES 12,000 - 22,000 | KES 15,500 - 25,500 |
-| 3-bedroom house | KES 5,000 | KES 18,000 - 32,000 | KES 23,000 - 37,000 |
-| 4-bedroom house | KES 6,000 | KES 28,000 - 48,000 | KES 34,000 - 54,000 |
-| 5-bedroom house | KES 7,000 | KES 38,000 - 65,000 | KES 45,000 - 72,000 |
-| 6+ bedroom / large compound | KES 8,000+ | KES 55,000 - 120,000 | KES 63,000+ |
+Post-construction treatment for houses is also quoted after inspection. The scope of work - and therefore the cost - varies significantly depending on how far any infestation has spread and how accessible the building's foundation perimeter is.
+
+**Book an inspection to receive a fixed-price treatment quote specific to your property.**
 
 ### Nairobi by Estate: What to Expect
 
@@ -73,16 +66,33 @@ The following ranges are based on Pestraid Kenya's 2026 pricing for standard tre
 
 ## Pre-Construction Treatment Costs in Nairobi
 
-For new buildings under construction in Nairobi and surrounding counties:
+For new buildings under construction in Nairobi and surrounding counties, Pestraid Kenya prices treatment per square metre of slab footprint across three protection tiers:
 
-| Slab Footprint | Pre-Construction Treatment Cost |
-|---|---|
-| Up to 100m² | KES 6,000 - 12,000 |
-| 100-200m² | KES 11,000 - 22,000 |
-| 200-400m² | KES 20,000 - 42,000 |
-| 400m²+ | Quoted per site |
+| Protection Period | Rate per m² (KES) | What You Get |
+|---|---|---|
+| 5-Year Protection | **KES 200 per m²** | Full 3-stage barrier; 5-year written warranty |
+| 8-Year Protection | **KES 250 per m²** | Fipronil-based premium barrier; 8-year warranty |
+| 10-Year Protection | **KES 300 per m²** | Maximum-rate barrier + physical penetration sealing; 10-year warranty |
 
-This covers the full pre-construction process including foundation treatment, backfill treatment, and sub-slab treatment. Read the complete process in our [Pre-Construction Termite Treatment](/blog/pre-construction-termite-treatment-kenya) and [Termite Treatment Before Slab](/blog/termite-treatment-before-slab) guides.
+**Example: 200m² Nairobi house slab**
+- 5-year protection: **KES 40,000**
+- 8-year protection: **KES 50,000**
+- 10-year protection: **KES 60,000**
+
+All tiers include foundation treatment, backfill treatment, sub-slab treatment, penetration sealing, treatment certificate, and all follow-up inspections within the warranty period.
+
+Read the complete process in our [Pre-Construction Termite Treatment](/blog/pre-construction-termite-treatment-kenya) and [Termite Treatment Before Slab](/blog/termite-treatment-before-slab) guides.
+
+## Termite Hill and Queen Removal in Nairobi
+
+If an active termite mound (hill) is found on your property, the colony including the queen must be eliminated before any soil barrier treatment is laid. Pestraid Kenya's termite hill removal and treatment service includes:
+
+- Physical mound excavation to the queen chamber
+- Direct termiticide injection into the colony core
+- Treatment of surrounding soil galleries
+- Follow-up visit to confirm full colony elimination
+
+**Starting from KES 19,500** - final price depends on mound size, number of mounds, and the extent of colony spread in the surrounding soil. Contact Pestraid Kenya for a site assessment.
 
 ## Termite Inspection Cost in Nairobi
 
@@ -115,7 +125,7 @@ Every treatment quoted by Pestraid Kenya in Nairobi includes:
 ✅ Post-treatment sealing of all drill holes
 ✅ A written treatment completion report with photographs
 ✅ A treatment certificate accepted by Kenyan banks and county councils
-✅ A written warranty (3-5 years)
+✅ A written warranty (5, 8, or 10 years for pre-construction depending on selected tier; as quoted for post-construction)
 ✅ Scheduled follow-up inspection visits during the warranty period
 
 ## Frequently Asked Questions: Termite Control Cost in Nairobi

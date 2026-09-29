@@ -1,12 +1,12 @@
 ---
 title: "Termite Treatment for Timber Structures in Kenya: Protecting Roofs, Frames and Timber Buildings"
 date: "2026-09-29"
-excerpt: "How to protect timber roof structures, timber-frame buildings, pergolas, and other wood structures from termite damage in Kenya — treatment methods, preservatives, inspection schedules, and costs."
+excerpt: "How to protect timber roof structures, timber-frame buildings, pergolas, and other wood structures from termite damage in Kenya - treatment methods, preservatives, inspection schedules, and costs."
 ---
 
 # Termite Treatment for Timber Structures in Kenya: Protecting Roofs, Frames and Timber Buildings
 
-Kenya's construction industry uses timber extensively — in roof trusses, purlins, wall plates, window and door frames, fascia boards, pergolas, carports, staircases, and ceiling systems. In coastal Kenya and rural areas, entire buildings are timber-framed. In Nairobi's rapidly expanding suburbs, timber roof structures top almost every residential and commercial building. All of this timber is perpetually at risk from termite attack.
+Kenya's construction industry uses timber extensively - in roof trusses, purlins, wall plates, window and door frames, fascia boards, pergolas, carports, staircases, and ceiling systems. In coastal Kenya and rural areas, entire buildings are timber-framed. In Nairobi's rapidly expanding suburbs, timber roof structures top almost every residential and commercial building. All of this timber is perpetually at risk from termite attack.
 
 Termite treatment for timber structures is a specialized field that goes beyond standard soil barrier treatment. It involves understanding how different timber species respond to chemical treatment, how termites access above-ground timber elements, and how to protect structures that may have limited or no soil contact. This guide covers all the key aspects relevant to Kenyan homeowners, builders, architects, and property managers.
 
@@ -14,7 +14,7 @@ Termite treatment for timber structures is a specialized field that goes beyond 
 
 ### Subterranean Access (Most Common in Kenya)
 
-Kenya's dominant termite species — *Macrotermes* and *Coptotermes* — are subterranean. They live in soil colonies and reach above-ground timber by building **mud tubes** that travel up walls, columns, and structural members. These tubes protect the workers from desiccation and predators, allowing them to travel from soil level to roof trusses — a vertical journey of 6 metres or more — completely concealed.
+Kenya's dominant termite species - *Macrotermes* and *Coptotermes* - are subterranean. They live in soil colonies and reach above-ground timber by building **mud tubes** that travel up walls, columns, and structural members. These tubes protect the workers from desiccation and predators, allowing them to travel from soil level to roof trusses - a vertical journey of 6 metres or more - completely concealed.
 
 The sequence of attack in a typical Kenyan residential building:
 1. Colony established in soil beneath or adjacent to the building
@@ -74,7 +74,7 @@ Where active termite galleries are confirmed within timber structural elements, 
 
 ### Method 4: Soil Barrier Treatment (Primary Defence)
 
-The most important protection for any timber structure in Kenya is the soil barrier treatment that prevents termites from leaving the ground and reaching the structure in the first place. All timber structure treatment programmes should include — or confirm the existence of — a current, warranted soil barrier treatment around the building's perimeter. Read our full guides on [Termite Soil Treatment in Kenya](/blog/termite-soil-treatment-kenya) and [Post Construction Termite Treatment](/blog/post-construction-termite-treatment-kenya).
+The most important protection for any timber structure in Kenya is the soil barrier treatment that prevents termites from leaving the ground and reaching the structure in the first place. All timber structure treatment programmes should include - or confirm the existence of - a current, warranted soil barrier treatment around the building's perimeter. Read our full guides on [Termite Soil Treatment in Kenya](/blog/termite-soil-treatment-kenya) and [Post Construction Termite Treatment](/blog/post-construction-termite-treatment-kenya).
 
 Without a soil barrier, direct timber treatment alone is insufficient as a long-term solution. Termites will find new pathways to untreated sections of the structure.
 
@@ -91,7 +91,7 @@ Pestraid Kenya's roof timber treatment programme:
 
 ### Timber-Frame Buildings
 
-Full timber-frame buildings — found in coastal Kenya, rural areas, and some specialized residential projects in Nairobi — require both:
+Full timber-frame buildings - found in coastal Kenya, rural areas, and some specialized residential projects in Nairobi - require both:
 - **Comprehensive soil barrier treatment** around the full perimeter and beneath the floor structure
 - **Full boron impregnation treatment** of all exposed structural timber before cladding is installed
 
@@ -100,10 +100,10 @@ For new timber-frame construction, boron treatment of all structural timber shou
 ### External Timber Structures: Pergolas, Decks, Carports
 
 External structures are in direct or near-direct soil contact and are frequently attacked first. Treatment includes:
-- **Post base treatment** — soil around and beneath each post base is treated with termiticide
-- **Physical collar treatment** — installation of a physical barrier (stainless steel mesh collar or bituminous wrap) around each post at soil contact point
+- **Post base treatment** - soil around and beneath each post base is treated with termiticide
+- **Physical collar treatment** - installation of a physical barrier (stainless steel mesh collar or bituminous wrap) around each post at soil contact point
 - **Full boron application** to all timber surfaces
-- **Annual inspection** — critical for external structures that are less frequently inspected than interior rooms
+- **Annual inspection** - critical for external structures that are less frequently inspected than interior rooms
 
 ### Timber Fencing and Boundary Posts
 
@@ -150,7 +150,7 @@ This is a structural engineering question rather than a pest control question. P
 Boron-treated timber and CCA-treated timber are available from specialist timber suppliers in Kenya. Always confirm the treatment type and standard before purchasing timber for structural use.
 
 **Can termites damage steel or concrete structures?**
-No — termites cannot consume steel or concrete. However, they can exploit any timber within or attached to these structures, and can use hairline cracks or gaps in concrete structures as access highways to timber above.
+No - termites cannot consume steel or concrete. However, they can exploit any timber within or attached to these structures, and can use hairline cracks or gaps in concrete structures as access highways to timber above.
 
 ## Protect Your Timber Structures Now
 
@@ -160,7 +160,7 @@ Every timber element in your Kenyan property deserves professional protection. D
 
 ### Contact Pestraid Kenya
 
-**Pestraid Kenya** — Timber Structure Termite Treatment Specialists across Kenya.
+**Pestraid Kenya** - Timber Structure Termite Treatment Specialists across Kenya.
 
 - 📞 **Phone / WhatsApp:** [0710 907 628](tel:+254710907628)
 - 📧 **Email:** [sales@pestraid.co.ke](mailto:sales@pestraid.co.ke)

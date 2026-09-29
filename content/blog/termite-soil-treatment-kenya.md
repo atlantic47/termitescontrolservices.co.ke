@@ -1,7 +1,7 @@
 ---
 title: "Termite Soil Treatment in Kenya: How It Works and Why It Protects Your Property"
 date: "2026-09-29"
-excerpt: "A complete guide to termite soil treatment in Kenya — the chemicals used, the step-by-step application process, how long it lasts, cost, and why it is the most effective form of termite control available."
+excerpt: "A complete guide to termite soil treatment in Kenya - the chemicals used, the step-by-step application process, how long it lasts, cost, and why it is the most effective form of termite control available."
 ---
 
 # Termite Soil Treatment in Kenya: How It Works and Why It Protects Your Property
@@ -14,9 +14,9 @@ This guide explains precisely how termite soil treatment works, what chemicals a
 
 Termite soil treatment is the creation of a continuous chemical zone (barrier) in the soil surrounding and beneath a building structure. This treated zone:
 
-1. **Acts as a lethal zone** — termites that enter the treated soil receive a fatal dose of the active chemical
-2. **Works through the Transfer Effect** — non-repellent termiticides are undetectable by termites, so they walk through the treated zone and carry the chemical on their body and in their gut back to the colony, passing it through grooming and food sharing (trophallaxis) to nestmates — including the queen
-3. **Eliminates the colony, not just the foragers** — unlike repellent chemicals that simply redirect termite pathways, non-repellent soil treatments destroy the colony at its source
+1. **Acts as a lethal zone** - termites that enter the treated soil receive a fatal dose of the active chemical
+2. **Works through the Transfer Effect** - non-repellent termiticides are undetectable by termites, so they walk through the treated zone and carry the chemical on their body and in their gut back to the colony, passing it through grooming and food sharing (trophallaxis) to nestmates - including the queen
+3. **Eliminates the colony, not just the foragers** - unlike repellent chemicals that simply redirect termite pathways, non-repellent soil treatments destroy the colony at its source
 
 This is the key distinction that makes professional soil treatment far superior to DIY approaches using diesel, kerosene, or repellent sprays. Repellent chemicals cause termites to find alternative routes into the building. Non-repellent soil treatment eliminates the colony entirely.
 
@@ -36,7 +36,7 @@ For existing buildings where the interior floor slab prevents direct soil access
 
 ### 4. Void Injection
 
-For cavity block walls, hollow column bases, or void spaces at ground floor level, termiticide is injected directly into the cavity — either as a liquid or as a foam — to create a treated zone within the wall structure itself.
+For cavity block walls, hollow column bases, or void spaces at ground floor level, termiticide is injected directly into the cavity - either as a liquid or as a foam - to create a treated zone within the wall structure itself.
 
 ## Chemicals Used in Termite Soil Treatment in Kenya
 
@@ -45,7 +45,7 @@ Pestraid Kenya uses only PCPB-registered termiticides in all soil treatment appl
 ### Fipronil (e.g., Termidor SC)
 - **Class:** Phenylpyrazole non-repellent termiticide
 - **Active ingredient concentration:** 9.1% SC, diluted to 0.005–0.01% in application
-- **Key characteristic:** Exceptional Transfer Effect — one of the most effective colony-elimination products available
+- **Key characteristic:** Exceptional Transfer Effect - one of the most effective colony-elimination products available
 - **Duration:** 5–10 years in Kenyan soil conditions
 - **Registration:** PCPB registered for termite control in Kenya
 
@@ -61,7 +61,7 @@ Read our specific product guide: [Termidor Termite Treatment in Kenya](/blog/ter
 Read our specific product guide: [Premise Termite Treatment in Kenya](/blog/premise-termite-treatment-kenya)
 
 ### Bifenthrin (e.g., Biflex)
-- **Class:** Synthetic pyrethroid — acts as a repellent
+- **Class:** Synthetic pyrethroid - acts as a repellent
 - **Duration:** 3–5 years
 - **Note:** Being phased out in favour of non-repellent actives for colony elimination
 
@@ -72,23 +72,23 @@ Read our specific product guide: [Premise Termite Treatment in Kenya](/blog/prem
 
 This is the most commonly performed soil treatment in Kenya. Here is exactly how Pestraid Kenya's technicians carry it out:
 
-**Step 1 — Pre-treatment inspection:** A full [termite inspection](/blog/termite-inspection-nairobi) is carried out to map the infestation, identify active mud tubes, and determine all treatment zones.
+**Step 1 - Pre-treatment inspection:** A full [termite inspection](/blog/termite-inspection-nairobi) is carried out to map the infestation, identify active mud tubes, and determine all treatment zones.
 
-**Step 2 — Perimeter trenching:** A narrow trench (150–300mm wide, 300mm deep) is cut along the external face of all foundation walls. Where concrete paths or paved areas obstruct trenching, holes are drilled at 300–500mm intervals.
+**Step 2 - Perimeter trenching:** A narrow trench (150–300mm wide, 300mm deep) is cut along the external face of all foundation walls. Where concrete paths or paved areas obstruct trenching, holes are drilled at 300–500mm intervals.
 
-**Step 3 — Termiticide mixing:** The termiticide is mixed at the correct label dilution rate in clean water. Pestraid Kenya always verifies the exact concentration against the PCPB label before application.
+**Step 3 - Termiticide mixing:** The termiticide is mixed at the correct label dilution rate in clean water. Pestraid Kenya always verifies the exact concentration against the PCPB label before application.
 
-**Step 4 — Trench treatment:** The mixed termiticide is applied to the trench bottom and walls at the specified rate (typically 5 litres per linear metre for a 300mm deep trench), ensuring complete coverage.
+**Step 4 - Trench treatment:** The mixed termiticide is applied to the trench bottom and walls at the specified rate (typically 5 litres per linear metre for a 300mm deep trench), ensuring complete coverage.
 
-**Step 5 — Rodding:** A soil injection rod is used to perforate the trench bottom at 150–200mm intervals and inject additional termiticide at depth, ensuring the treated zone extends to the foundation footing level.
+**Step 5 - Rodding:** A soil injection rod is used to perforate the trench bottom at 150–200mm intervals and inject additional termiticide at depth, ensuring the treated zone extends to the foundation footing level.
 
-**Step 6 — Concrete drilling and injection:** At all paved areas, termiticide is injected through drilled holes under pressure, saturating the soil beneath the concrete to the foundation depth.
+**Step 6 - Concrete drilling and injection:** At all paved areas, termiticide is injected through drilled holes under pressure, saturating the soil beneath the concrete to the foundation depth.
 
-**Step 7 — Trench backfilling:** Soil is returned to the trench in 100mm layers, each layer receiving a measured application of termiticide before the next layer is placed.
+**Step 7 - Trench backfilling:** Soil is returned to the trench in 100mm layers, each layer receiving a measured application of termiticide before the next layer is placed.
 
-**Step 8 — Sealing:** Drill holes in concrete are filled with a matching cement plug.
+**Step 8 - Sealing:** Drill holes in concrete are filled with a matching cement plug.
 
-**Step 9 — Documentation:** A completion report with a treatment map and warranty document is issued.
+**Step 9 - Documentation:** A completion report with a treatment map and warranty document is issued.
 
 ## How Long Does Termite Soil Treatment Last in Kenya?
 
@@ -130,7 +130,7 @@ The chemicals required for effective termite soil treatment are only sold to lic
 Registered termiticides are formulated to bind to soil particles. Normal rainfall does not significantly reduce the effectiveness of a properly applied soil barrier treatment.
 
 **How do I know if the soil treatment has worked?**
-Within 4–8 weeks of treatment, termite activity in the treated zone should cease. Our technicians verify this during a scheduled follow-up visit.
+Within 4-8 weeks of treatment, termite activity in the treated zone should cease. Our technicians verify this during a scheduled follow-up visit.
 
 ## Protect Your Property with Professional Soil Treatment
 
@@ -140,7 +140,7 @@ Termite soil treatment is the most reliable, most proven defence available for K
 
 ### Contact Pestraid Kenya
 
-**Pestraid Kenya** — Termite Soil Treatment Specialists across Kenya.
+**Pestraid Kenya** - Termite Soil Treatment Specialists across Kenya.
 
 - 📞 **Phone / WhatsApp:** [0710 907 628](tel:+254710907628)
 - 📧 **Email:** [sales@pestraid.co.ke](mailto:sales@pestraid.co.ke)

@@ -1,7 +1,7 @@
 ---
 title: "Pre Construction Termite Prevention in Kenya: A Developer's Complete Guide"
 date: "2026-09-29"
-excerpt: "Discover the full range of pre construction termite prevention strategies in Kenya — from soil treatment and physical barriers to design choices that reduce termite risk before you break ground."
+excerpt: "Discover the full range of pre construction termite prevention strategies in Kenya - from soil treatment and physical barriers to design choices that reduce termite risk before you break ground."
 ---
 
 # Pre Construction Termite Prevention in Kenya: A Developer's Complete Guide
@@ -14,10 +14,10 @@ Pre construction termite prevention is broader than simply applying a chemical t
 
 The construction stage offers access that will never exist again once a building is complete:
 
-- **The full foundation footprint is exposed** — chemical treatment can be applied to every square centimetre of the soil that will be beneath the slab
-- **Foundation walls are accessible** — both sides can be treated before backfilling
-- **Plumbing and service penetrations are being installed** — each entry point can be treated and sealed as it is created, not years later when termites are already using it
-- **Design modifications are still possible** — decisions about timber use, ventilation, drainage, and landscaping can still be made at the planning stage
+- **The full foundation footprint is exposed** - chemical treatment can be applied to every square centimetre of the soil that will be beneath the slab
+- **Foundation walls are accessible** - both sides can be treated before backfilling
+- **Plumbing and service penetrations are being installed** - each entry point can be treated and sealed as it is created, not years later when termites are already using it
+- **Design modifications are still possible** - decisions about timber use, ventilation, drainage, and landscaping can still be made at the planning stage
 
 Every week of delay after construction begins increases the cost and reduces the effectiveness of termite prevention. Contact Pestraid Kenya during your planning stage for a site assessment, not after the slab is down.
 
@@ -38,17 +38,17 @@ Physical barriers are a non-chemical pre construction prevention method increasi
 
 ### Graded Stone Particle Barriers (Granular Barriers)
 
-A layer of precisely sized granite or basalt particles (particle size 1.7–2.4mm) is placed beneath the slab. Termites cannot move through the tightly packed particles and cannot excavate through this layer without exposure. This method is particularly useful in situations where chemical applications are restricted (e.g., near water sources or organic gardens).
+A layer of precisely sized granite or basalt particles (particle size 1.7-2.4mm) is placed beneath the slab. Termites cannot move through the tightly packed particles and cannot excavate through this layer without exposure. This method is particularly useful in situations where chemical applications are restricted (e.g., near water sources or organic gardens).
 
 ### Stainless Steel Mesh
 
-Fine stainless steel mesh (grade 316, aperture 0.66mm) can be installed beneath the slab at penetration points and expansion joints — the exact entry routes termites use most frequently. The mesh is corrosion-resistant, permanent, and highly effective when correctly installed.
+Fine stainless steel mesh (grade 316, aperture 0.66mm) can be installed beneath the slab at penetration points and expansion joints - the exact entry routes termites use most frequently. The mesh is corrosion-resistant, permanent, and highly effective when correctly installed.
 
 ### Polyurethane Collars
 
 Installed around plumbing pipes at their penetration through the slab, these flexible collars expand and contract with temperature changes, maintaining an airtight termite-proof seal that lasts the life of the building.
 
-Physical barriers are most effective when used **in combination** with chemical soil treatment — not as a standalone alternative.
+Physical barriers are most effective when used **in combination** with chemical soil treatment - not as a standalone alternative.
 
 ## Layer 3: Design Decisions That Reduce Termite Risk
 
@@ -83,10 +83,10 @@ For external joinery, pergolas, decks, carports, and any other exposed timber el
 
 The decisions made about gardens, planted areas, and landscaping at the design stage also influence long-term termite risk:
 
-- **Avoid mulching directly against the building** — organic mulch against foundation walls provides moisture, food, and concealment for termites
-- **Don't plant trees too close to the building** — tree roots create pathways through the soil barrier and tree stumps are a magnet for termite colonization
-- **Avoid paving that traps moisture against the foundation** — leave a clear, well-drained gap between garden beds and the building's external walls
-- **Remove tree stumps before construction** — any dead wood in the soil is a guaranteed termite attractant
+- **Avoid mulching directly against the building** - organic mulch against foundation walls provides moisture, food, and concealment for termites
+- **Don't plant trees too close to the building** - tree roots create pathways through the soil barrier and tree stumps are a magnet for termite colonization
+- **Avoid paving that traps moisture against the foundation** - leave a clear, well-drained gap between garden beds and the building's external walls
+- **Remove tree stumps before construction** - any dead wood in the soil is a guaranteed termite attractant
 
 ## Layer 5: Pre-Construction Inspection for Existing Termite Colonies
 
@@ -98,11 +98,11 @@ This survey is included at no additional charge when Pestraid Kenya is engaged f
 
 A complete pre construction termite prevention programme for a typical Kenyan residential property (200m² slab) includes:
 - Site survey and colony elimination: included in treatment cost
-- Chemical soil barrier treatment (3 stages): KES 8,000–24,000
-- Physical barriers at penetration points: KES 3,000–8,000 (optional but recommended)
+- Chemical soil barrier treatment (3 stages): KES 8,000-24,000
+- Physical barriers at penetration points: KES 3,000-8,000 (optional but recommended)
 - Certificate of treatment: included
 
-Total programme cost: typically **KES 11,000–32,000** — a negligible fraction of the total building cost for a guarantee that protects the entire structure.
+Total programme cost: typically **KES 11,000-32,000** - a negligible fraction of the total building cost for a guarantee that protects the entire structure.
 
 For comparison, a [post construction treatment](/blog/post-construction-termite-treatment-kenya) applied after the building is complete costs significantly more for less complete protection. Read our full [Termite Treatment Cost Kenya](/blog/termite-treatment-cost-kenya) guide for more detail.
 
@@ -113,13 +113,13 @@ If you are developing multiple units on a single site, Pestraid Kenya offers com
 ## Frequently Asked Questions
 
 **How early in the construction process should I contact you?**
-As early as possible — ideally before the architect finalizes the construction drawings. Early engagement allows our team to advise on design details that affect treatment effectiveness and to schedule treatment stages in alignment with your construction programme.
+As early as possible - ideally before the architect finalizes the construction drawings. Early engagement allows our team to advise on design details that affect treatment effectiveness and to schedule treatment stages in alignment with your construction programme.
 
 **Is pre construction treatment included in standard building contracts in Kenya?**
 It varies. Many Nairobi contractors now include it as a standard line item, but many do not. Always check your BoQ (Bill of Quantities) and confirm with your contractor whether termite treatment is included and by which specialist.
 
 **How long does the prevention last?**
-Chemical barriers last 5–10 years depending on the product used. Physical barriers are permanent. After the chemical barrier's warranty period expires, a targeted [perimeter soil treatment](/services/anti-termite-soil-treatment) can be applied to renew protection.
+Chemical barriers last 5-10 years depending on the product used. Physical barriers are permanent. After the chemical barrier's warranty period expires, a targeted [perimeter soil treatment](/services/anti-termite-soil-treatment) can be applied to renew protection.
 
 **Can I get a government-approved certificate?**
 Yes. Pestraid Kenya issues PCPB-compliant treatment certificates accepted by Kenyan county councils, banks, and mortgage institutions.
@@ -132,7 +132,7 @@ The right time for termite prevention is always before construction begins. Expl
 
 ### Contact Pestraid Kenya
 
-**Pestraid Kenya** — Pre Construction Termite Prevention Specialists across Kenya.
+**Pestraid Kenya** - Pre Construction Termite Prevention Specialists across Kenya.
 
 - 📞 **Phone / WhatsApp:** [0710 907 628](tel:+254710907628)
 - 📧 **Email:** [sales@pestraid.co.ke](mailto:sales@pestraid.co.ke)

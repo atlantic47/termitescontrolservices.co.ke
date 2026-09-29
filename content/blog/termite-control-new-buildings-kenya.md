@@ -1,21 +1,21 @@
 ---
 title: "Termite Control for New Buildings in Kenya: Build Smart, Build Protected"
 date: "2026-09-29"
-excerpt: "A complete guide to termite control for new buildings in Kenya — covering mandatory treatment stages, the most effective methods, what certification is required, and how to plan protection into your construction project."
+excerpt: "A complete guide to termite control for new buildings in Kenya - covering mandatory treatment stages, the most effective methods, what certification is required, and how to plan protection into your construction project."
 ---
 
 # Termite Control for New Buildings in Kenya: Build Smart, Build Protected
 
-Every new building constructed in Kenya is an investment of hundreds of thousands — or millions — of shillings. Yet a significant proportion of those buildings are completed without any termite control programme in place, leaving them vulnerable to the silent, continuous destruction that subterranean termites cause from the moment the building is occupied.
+Every new building constructed in Kenya is an investment of hundreds of thousands - or millions - of shillings. Yet a significant proportion of those buildings are completed without any termite control programme in place, leaving them vulnerable to the silent, continuous destruction that subterranean termites cause from the moment the building is occupied.
 
-Termite control for new buildings is not simply a precaution — in many Kenyan counties and for most bank-financed construction projects, it is a legal and financial requirement. This guide explains what is required, when it must be done, how it works, and how to get it right from the first day of ground-breaking.
+Termite control for new buildings is not simply a precaution. In many Kenyan counties and for most bank-financed construction projects, it is a legal and financial requirement. This guide explains what is required, when it must be done, how it works, and how to get it right from the first day of ground-breaking.
 
 ## Why New Buildings Need Termite Control Before Occupation
 
 A common misconception among Kenyan property owners is that termite problems develop slowly and only affect old buildings. In reality, a new building can be colonized very quickly:
 
 - **Construction disturbance** disturbs soil, exposing termite galleries and stimulating foraging activity. The cleared ground, loose soil, and stored timber on a construction site are ideal foraging targets.
-- **New timber installations** — door frames, window frames, roof trusses, floor joists — provide the exact food source termites seek.
+- **New timber installations** - door frames, window frames, roof trusses, floor joists - provide the exact food source termites seek.
 - **Soil settlement** around foundations creates new pathways for termites to exploit.
 - **Moisture from curing concrete** and early plumbing installation attracts foraging workers.
 
@@ -29,7 +29,7 @@ The National Building Code specifies that buildings in termite-risk areas must i
 
 ### Bank and Mortgage Requirements
 
-Most Kenyan banks and mortgage providers — including Kenya Commercial Bank (KCB), Housing Finance Company (HFC), Stanbic, and Absa — require a **Termite Treatment Certificate** before disbursing the final tranche of construction finance or approving a mortgage on a new property. This certificate must be issued by a PCPB-licensed pest control operator and include the product used, application date, area covered, and warranty details.
+Most Kenyan banks and mortgage providers - including Kenya Commercial Bank (KCB), Housing Finance Company (HFC), Stanbic, and Absa - require a **Termite Treatment Certificate** before disbursing the final tranche of construction finance or approving a mortgage on a new property. This certificate must be issued by a PCPB-licensed pest control operator and include the product used, application date, area covered, and warranty details.
 
 Pestraid Kenya's treatment certificates are accepted by all major Kenyan financial institutions.
 
@@ -88,7 +88,11 @@ Where the primary structural system is timber-framed (common in coastal Kenya an
 
 ### Multi-Storey Apartment Buildings
 
-For multi-storey developments, termite treatment focuses on the ground floor and basement levels — the zones in contact with or closest to the soil. Upper floors are not at direct soil contact risk but benefit from treatment of shared service cores and basement levels. Pestraid Kenya produces site-wide termite management plans for multi-storey developments. See [Termite Control for Developers in Kenya](/blog/termite-control-for-developers-kenya).
+For multi-storey developments, termite treatment focuses on the ground floor and basement levels - the zones in contact with or closest to the soil. Upper floors are not at direct soil contact risk but benefit from treatment of shared service cores and basement levels.
+
+Pestraid Kenya produces site-wide termite management plans for multi-storey developments.
+
+See [Termite Control for Developers in Kenya](/blog/termite-control-for-developers-kenya).
 
 ### Buildings with Basements
 
@@ -102,7 +106,7 @@ Poor coordination is the most common reason new buildings miss the critical trea
 
 **Include treatment as a BoQ (Bill of Quantities) line item.** This ensures the cost is budgeted, the contractor is contractually responsible for coordination, and the treatment is not skipped to save time.
 
-**Ensure the site foreman has Pestraid Kenya's contact number.** The sub-slab treatment must happen at the specific moment between formation compaction and blinding pour — the foreman must call us in advance so we can be on site at the right time.
+**Ensure the site foreman has Pestraid Kenya's contact number.** The sub-slab treatment must happen at the specific moment between formation compaction and blinding pour - the foreman must call us in advance so we can be on site at the right time.
 
 **Do not stockpile timber on untreated ground.** Any timber stored on site for extended periods before installation should be kept elevated off the ground and away from soil.
 
@@ -110,9 +114,9 @@ Poor coordination is the most common reason new buildings miss the critical trea
 
 | Building Size (Ground Floor Footprint) | Complete Programme Cost (KES) |
 |---|---|
-| Up to 100m² | 7,000 – 14,000 |
-| 100–200m² | 13,000 – 25,000 |
-| 200–400m² | 22,000 – 45,000 |
+| Up to 100m² | 7,000 - 14,000 |
+| 100-200m² | 13,000 - 25,000 |
+| 200-400m² | 22,000 - 45,000 |
 | 400m²+ | Quoted per site |
 
 This is the all-inclusive cost for the complete programme: site survey, all treatment stages, documentation, certificate, and warranty. Read the full [Termite Treatment Cost in Kenya](/blog/termite-treatment-cost-kenya) guide for detailed breakdowns.
@@ -131,7 +135,7 @@ No. Treatment must be applied by a PCPB-licensed pest control operator using reg
 **How do I book treatment that fits my construction schedule?**
 Contact Pestraid Kenya when your project commences. We will assign a dedicated contact person for your project and coordinate treatment timing directly with your site team.
 
-## Build With Confidence — Built-In Termite Protection
+## Build With Confidence - Built-In Termite Protection
 
 New buildings deserve the best possible start. Integrate termite control into your construction programme from day one and build a structure that is protected from Kenya's most destructive pest for years to come. Explore all our [termite control services](/services) or browse more expert guides on our [blog](/blog).
 
@@ -139,7 +143,7 @@ New buildings deserve the best possible start. Integrate termite control into yo
 
 ### Contact Pestraid Kenya
 
-**Pestraid Kenya** — Termite Control Specialists for New Buildings across Kenya.
+**Pestraid Kenya** - Termite Control Specialists for New Buildings across Kenya.
 
 - 📞 **Phone / WhatsApp:** [0710 907 628](tel:+254710907628)
 - 📧 **Email:** [sales@pestraid.co.ke](mailto:sales@pestraid.co.ke)

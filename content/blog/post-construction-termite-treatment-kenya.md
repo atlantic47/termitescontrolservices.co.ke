@@ -1,14 +1,14 @@
 ---
 title: "Post Construction Termite Treatment in Kenya: Protecting Completed Buildings"
 date: "2026-09-29"
-excerpt: "Everything you need to know about post construction termite treatment in Kenya — how it works, the step-by-step process, chemical options, cost, and why no completed building is too late to protect."
+excerpt: "Everything you need to know about post construction termite treatment in Kenya - how it works, the step-by-step process, chemical options, cost, and why no completed building is too late to protect."
 ---
 
 # Post Construction Termite Treatment in Kenya: Protecting Completed Buildings
 
 The majority of properties in Kenya were built without any form of termite protection. Whether because the builder skipped pre-construction treatment to cut costs, because the owner was unaware of the requirement, or because the building predates modern termite treatment standards, millions of Kenyan homes and commercial buildings stand on soils that harbour active or potentially active subterranean termite colonies.
 
-Post construction termite treatment exists precisely for this reality. It is a proven, highly effective method for creating a chemical soil barrier around and beneath a completed building — one that prevents termites from reaching the structure's timber elements, regardless of how long the building has already been standing.
+Post construction termite treatment exists precisely for this reality. It is a proven, highly effective method for creating a chemical soil barrier around and beneath a completed building - one that prevents termites from reaching the structure's timber elements, regardless of how long the building has already been standing.
 
 Pestraid Kenya performs post construction termite treatment on hundreds of existing buildings every year across Nairobi, Mombasa, Kisumu, and Nakuru. This guide covers the complete process, the chemicals used, how long it lasts, and what it costs.
 
@@ -16,11 +16,11 @@ Pestraid Kenya performs post construction termite treatment on hundreds of exist
 
 Post construction termite treatment (also known as remedial soil treatment or retrospective barrier treatment) is the application of a registered termiticide into the soil surrounding and beneath a fully completed building. The treatment creates a continuous chemical zone in the soil through which termites cannot pass without picking up a lethal dose of the active ingredient.
 
-This is distinct from [pre-construction termite treatment](/blog/pre-construction-termite-treatment-kenya), which is applied to bare soil before concrete slabs and foundations are poured. Post construction treatment must work around an existing structure — through drilling, trenching, and injection — rather than treating open soil directly.
+This is distinct from [pre-construction termite treatment](/blog/pre-construction-termite-treatment-kenya), which is applied to bare soil before concrete slabs and foundations are poured. Post construction treatment must work around an existing structure - through drilling, trenching, and injection - rather than treating open soil directly.
 
 ## Why Post Construction Treatment Is Necessary Even in Seemingly Intact Buildings
 
-Here is a critical insight that most property owners miss: **termites can be actively feeding inside a building's timber elements for years before any external evidence appears.** The workers operate in concealed galleries within wall cavities, beneath floor boards, and inside roof trusses — areas that never see daylight and are never visually inspected.
+Here is a critical insight that most property owners miss: **termites can be actively feeding inside a building's timber elements for years before any external evidence appears.** The workers operate in concealed galleries within wall cavities, beneath floor boards, and inside roof trusses - areas that never see daylight and are never visually inspected.
 
 By the time you notice:
 - Sagging or spongy areas in your timber floor
@@ -41,7 +41,7 @@ Pestraid Kenya's post construction termite treatment follows a structured protoc
 Before any chemical is applied, a thorough [termite inspection](/blog/termite-inspection-nairobi) is conducted. Our technician maps:
 - All areas of existing termite activity and damage
 - The construction type (slab-on-ground, suspended timber floor, or combination)
-- The perimeter accessibility — whether concrete paths, decking, or garden beds obstruct access
+- The perimeter accessibility - whether concrete paths, decking, or garden beds obstruct access
 - Plumbing entry points, expansion joints, and foundation details
 
 This survey determines the specific treatment strategy and allows us to produce an accurate, fixed-price quote.
@@ -49,7 +49,7 @@ This survey determines the specific treatment strategy and allows us to produce 
 ### Step 2: External Perimeter Trenching
 
 Where the ground around the building is accessible:
-1. A trench is cut adjacent to the external foundation walls, approximately 150–300mm wide and 300mm deep
+1. A trench is cut adjacent to the external foundation walls, approximately 150-300mm wide and 300mm deep
 2. The trench floor and walls are thoroughly saturated with a registered termiticide at the specified label rate
 3. The soil is backfilled in layers, each layer treated with termiticide, creating a vertical treated zone from the surface down to the foundation footing level
 4. A horizontal treated zone is also created along the top of the backfilled trench
@@ -57,7 +57,7 @@ Where the ground around the building is accessible:
 ### Step 3: Drilling Through Concrete Surfaces
 
 Where concrete paths, driveways, verandas, or patios adjoin the building and prevent trenching:
-1. Holes are drilled at 300–500mm intervals through the concrete surface
+1. Holes are drilled at 300-500mm intervals through the concrete surface
 2. A high-pressure injection rod is inserted into each hole
 3. Termiticide is injected at pressure into the soil beneath, creating a treated zone under the slab at foundation level
 4. Holes are sealed with concrete plugs after treatment
@@ -77,7 +77,7 @@ Where active infestation is confirmed in specific timber elements, a supplementa
 After completion, Pestraid Kenya provides:
 - A detailed treatment completion report with a map of all treated areas
 - Product data sheets for all chemicals applied
-- A written **treatment warranty** (typically 3–5 years)
+- A written **treatment warranty** (typically 3-5 years)
 - A schedule for follow-up inspection visits within the warranty period
 
 ## Chemicals Used in Post Construction Termite Treatment in Kenya
@@ -94,8 +94,8 @@ Both chemicals bind tightly to soil particles, are environmentally stable at the
 
 A professionally applied post construction soil barrier treatment using registered products will remain effective for:
 
-- **Fipronil-based barriers:** 5–8 years under typical Kenyan soil and climate conditions
-- **Imidacloprid-based barriers:** 3–6 years
+- **Fipronil-based barriers:** 5-8 years under typical Kenyan soil and climate conditions
+- **Imidacloprid-based barriers:** 3-6 years
 
 Annual inspection visits (included in the warranty period) allow Pestraid Kenya technicians to detect any degradation in the barrier and apply supplementary treatments where needed before the warranty expires.
 
@@ -118,7 +118,7 @@ The [post construction termite treatment service](/services/post-construction-te
 ## Frequently Asked Questions
 
 **Can post construction treatment be applied to any building?**
-Yes, in principle. The specific technique adapts to the construction type. All building types — concrete slab, suspended floor, stone, brick, or steel-frame — can be treated.
+Yes, in principle. The specific technique adapts to the construction type. All building types - concrete slab, suspended floor, stone, brick, or steel-frame - can be treated.
 
 **Will drilling damage my floor tiles?**
 Our technicians use specialized diamond drill bits to create the minimum necessary hole size. Holes are carefully sealed with matching grout or concrete plug after treatment. Damage is minimal and is repaired as part of the service.
@@ -140,7 +140,7 @@ If your building has never been treated, or if the last treatment warranty has e
 
 ### Contact Pestraid Kenya
 
-**Pestraid Kenya** — Post Construction Termite Treatment Specialists across Kenya.
+**Pestraid Kenya** - Post Construction Termite Treatment Specialists across Kenya.
 
 - 📞 **Phone / WhatsApp:** [0710 907 628](tel:+254710907628)
 - 📧 **Email:** [sales@pestraid.co.ke](mailto:sales@pestraid.co.ke)

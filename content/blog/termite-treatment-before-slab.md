@@ -6,32 +6,32 @@ excerpt: "Why termite treatment before the slab is the most important stage of t
 
 # Termite Treatment Before the Slab: The Most Critical Step in New Construction
 
-If there is one moment in any construction project that determines the long-term termite safety of the building, it is the minutes before the blinding concrete is poured beneath the floor slab. This single stage — often taking less than two hours for a standard house — creates a chemical barrier that will protect the building for five to ten years. Miss it and the barrier cannot be recreated without drilling hundreds of holes through your completed floor.
+If there is one moment in any construction project that determines the long-term termite safety of the building, it is the minutes before the blinding concrete is poured beneath the floor slab. This single stage - often taking less than two hours for a standard house - creates a chemical barrier that will protect the building for five to ten years. Miss it and the barrier cannot be recreated without drilling hundreds of holes through your completed floor.
 
 Termite treatment before the slab is specifically mandated in the Kenya National Building Code for construction in termite-risk zones, and is required by most banks in Kenya before they will disburse construction finance for residential projects. Yet it is still frequently skipped by contractors trying to save time or cut costs. This guide explains exactly what the treatment involves, why it cannot be replicated after the fact, and what the consequences are of skipping it.
 
 ## What Is Termite Treatment Before the Slab?
 
-Termite treatment before the slab — also called **sub-slab soil treatment** or **pre-slab termite treatment** — is the application of a registered liquid termiticide across the entire formation level of a building's ground floor immediately before the blinding concrete layer is poured.
+Termite treatment before the slab - also called **sub-slab soil treatment** or **pre-slab termite treatment** - is the application of a registered liquid termiticide across the entire formation level of a building's ground floor immediately before the blinding concrete layer is poured.
 
 The formation level is the compacted soil surface upon which the blinding and structural floor slab will be constructed. At this stage:
 - The ground is entirely exposed across the full footprint of the building
 - All foundation walls and piers are already in place
 - Plumbing and service pipes are being installed through the slab
-- The blinding layer (typically a 50–75mm lean mix slab) is about to be placed
+- The blinding layer (typically a 50-75mm lean mix slab) is about to be placed
 
-This brief window — a matter of hours — is the optimal moment for termite prevention. After the blinding and structural slab are poured, this access is permanently sealed.
+This brief window - a matter of hours - is the optimal moment for termite prevention. After the blinding and structural slab are poured, this access is permanently sealed.
 
 ## Why This Stage Is Irreplaceable
 
 Once the floor slab is complete, the soil beneath it is entirely inaccessible. To treat that soil after the fact requires:
 
-- **Drilling** through the finished floor at intervals of 300–500mm across the entire slab area (potentially hundreds of holes in a large building)
+- **Drilling** through the finished floor at intervals of 300-500mm across the entire slab area (potentially hundreds of holes in a large building)
 - **High-pressure injection** of termiticide through each hole
 - **Sealing** every drill hole
 - **Disruption** to floor finishes, tiles, carpets, and furniture
 
-This [post construction sub-slab treatment](/blog/post-construction-termite-treatment-kenya) is effective, but it is far more expensive, far more disruptive, and never achieves the complete and uniform coverage that an open formation-level treatment provides. The cost differential for a 200m² slab can be KES 10,000–25,000 in additional labour and materials.
+This [post construction sub-slab treatment](/blog/post-construction-termite-treatment-kenya) is effective, but it is far more expensive, far more disruptive, and never achieves the complete and uniform coverage that an open formation-level treatment provides. The cost differential for a 200m² slab can be KES 10,000-25,000 in additional labour and materials.
 
 ## The Exact Process: Termite Treatment Before the Slab
 
@@ -40,8 +40,8 @@ Here is the precise sequence that Pestraid Kenya follows for sub-slab treatment 
 ### Stage 1: Foundation and Backfill Treatment
 
 Before the formation level treatment, Pestraid Kenya applies termiticide to:
-- **Foundation trench bottom and walls** — as soon as excavation is complete
-- **Backfill soil** — each 100mm layer of compacted backfill around the foundation footings receives a measured application of termiticide
+- **Foundation trench bottom and walls** - as soon as excavation is complete
+- **Backfill soil** - each 100mm layer of compacted backfill around the foundation footings receives a measured application of termiticide
 
 This ensures that the chemical barrier extends from the base of the foundation footing up to the formation level, with no untreated gaps in the vertical dimension.
 
@@ -52,10 +52,10 @@ This ensures that the chemical barrier extends from the base of the foundation f
 **Process:**
 1. The technician mixes the registered termiticide (e.g., Fipronil-based Termidor SC or Imidacloprid-based Premise 200SC) at the correct dilution rate in clean water
 2. The mixed solution is applied uniformly across the entire formation level surface using a watering can or low-pressure spray boom, at the label rate (typically 5 litres per square metre)
-3. Special attention is paid to areas around service entry points, column bases, and foundation wall/floor junctions — these are the highest-risk zones for termite entry
+3. Special attention is paid to areas around service entry points, column bases, and foundation wall/floor junctions - these are the highest-risk zones for termite entry
 4. The application is photographed and documented for the compliance record
 
-**Critical timing note:** The blinding concrete must be poured within the same day — ideally within four to six hours — of the termiticide application. If rain falls on the treated formation level before the blinding is placed, a supplementary treatment may be necessary.
+**Critical timing note:** The blinding concrete must be poured within the same day - ideally within four to six hours - of the termiticide application. If rain falls on the treated formation level before the blinding is placed, a supplementary treatment may be necessary.
 
 ### Stage 3: Service Penetration Treatment
 
@@ -74,26 +74,26 @@ This documentation is submitted to the bank (for construction finance disburseme
 
 ## What Happens If You Skip Termite Treatment Before the Slab?
 
-The consequences of skipping this stage can take years to manifest — but they are severe:
+The consequences of skipping this stage can take years to manifest - but they are severe:
 
-**Year 1–3:** The building is occupied. No visible signs of termites.
+**Year 1-3:** The building is occupied. No visible signs of termites.
 
-**Year 2–5:** Foraging workers from colonies in the surrounding soil find their way through the untreated zone beneath the slab. They enter via service pipe penetrations, expansion joints, and hairline cracks in the blinding slab. They begin feeding on the closest available timber — door frames, built-in wardrobes, wall plates, and timber floor joists.
+**Year 2-5:** Foraging workers from colonies in the surrounding soil find their way through the untreated zone beneath the slab. They enter via service pipe penetrations, expansion joints, and hairline cracks in the blinding slab. They begin feeding on the closest available timber - door frames, built-in wardrobes, wall plates, and timber floor joists.
 
-**Year 3–8:** Visible signs begin to appear: paint bubbling on skirting boards, hollow-sounding door frames, sticking doors. By this point, the colony has been feeding for years and the hidden structural damage is extensive.
+**Year 3-8:** Visible signs begin to appear: paint bubbling on skirting boards, hollow-sounding door frames, sticking doors. By this point, the colony has been feeding for years and the hidden structural damage is extensive.
 
-**Remediation cost:** The post-infestation cost typically includes sub-slab drilling treatment (KES 20,000–60,000), structural timber replacement (KES 50,000–300,000+), and floor finish reinstatement. Far more than the KES 8,000–24,000 the pre-slab treatment would have cost.
+**Remediation cost:** The post-infestation cost typically includes sub-slab drilling treatment (KES 20,000-60,000), structural timber replacement (KES 50,000-300,000+), and floor finish reinstatement. Far more than the KES 8,000-24,000 the pre-slab treatment would have cost.
 
 For real-world context on infestation costs, read our guides on [Termite Treatment Cost in Kenya](/blog/termite-treatment-cost-kenya) and [How Termites Damage Your Home's Foundation](/blog/how-termites-damage-your-home-s-foundation).
 
 ## Coordinating Treatment Into Your Construction Programme
 
-The most common reason sub-slab treatment is skipped is poor planning — the builder reaches the point of pouring blinding and the pest control company was never booked. Avoid this by:
+The most common reason sub-slab treatment is skipped is poor planning - the builder reaches the point of pouring blinding and the pest control company was never booked. Avoid this by:
 
-1. **Engaging Pestraid Kenya during the planning stage** — we will provide a schedule of the treatment stages and their timing requirements
-2. **Including treatment as a line item in the BoQ** — this ensures the cost is budgeted and the contractor is accountable for coordinating the work
-3. **Ensuring the site foreman has our contact number** — the technician must be given sufficient notice to be on site at the right moment
-4. **Confirming all stages in writing** — Pestraid Kenya provides a written schedule of all required treatment stages at the start of the project
+1. **Engaging Pestraid Kenya during the planning stage** - we will provide a schedule of the treatment stages and their timing requirements
+2. **Including treatment as a line item in the BoQ** - this ensures the cost is budgeted and the contractor is accountable for coordinating the work
+3. **Ensuring the site foreman has our contact number** - the technician must be given sufficient notice to be on site at the right moment
+4. **Confirming all stages in writing** - Pestraid Kenya provides a written schedule of all required treatment stages at the start of the project
 
 ## Pre-Slab Treatment for Different Construction Types
 
@@ -112,7 +112,7 @@ For properties with basements, treatment is applied to the base of all basement 
 ## Frequently Asked Questions
 
 **What if it rains after treatment but before the blinding?**
-Light rain on treated soil has minimal impact on a properly applied termiticide. Heavy rain that saturates the treated zone may require a supplementary top-up application — this is assessed on site by Pestraid Kenya's technician.
+Light rain on treated soil has minimal impact on a properly applied termiticide. Heavy rain that saturates the treated zone may require a supplementary top-up application - this is assessed on site by Pestraid Kenya's technician.
 
 **Can I apply this treatment myself?**
 No. The chemicals required are restricted to licensed pest control operators in Kenya. Application by an unlicensed person is illegal and will not produce a valid treatment certificate.
@@ -131,7 +131,7 @@ Termite treatment before the slab is the most cost-effective investment in your 
 
 ### Contact Pestraid Kenya
 
-**Pestraid Kenya** — Pre-Slab Termite Treatment Specialists across Kenya.
+**Pestraid Kenya** - Pre-Slab Termite Treatment Specialists across Kenya.
 
 - 📞 **Phone / WhatsApp:** [0710 907 628](tel:+254710907628)
 - 📧 **Email:** [sales@pestraid.co.ke](mailto:sales@pestraid.co.ke)

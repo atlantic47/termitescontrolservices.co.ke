@@ -1,12 +1,14 @@
 ---
 title: "Commercial Termite Control in Nairobi: Protecting Businesses, Offices and Industrial Properties"
 date: "2026-09-29"
-excerpt: "A specialist guide to commercial termite control in Nairobi — covering offices, retail premises, warehouses, hotels, and industrial facilities with minimum disruption and maximum protection."
+excerpt: "A specialist guide to commercial termite control in Nairobi - covering offices, retail premises, warehouses, hotels, and industrial facilities with minimum disruption and maximum protection."
 ---
 
 # Commercial Termite Control in Nairobi: Protecting Businesses, Offices and Industrial Properties
 
-Termites do not distinguish between a residential home and a commercial building. A multi-storey office block in Westlands, a warehouse in Industrial Area, a hotel in Upper Hill, or a retail complex in Eastleigh — all face the same threat from the subterranean termite colonies that exist in Nairobi's soils. What is different about commercial properties is the complexity of the treatment challenge, the higher stakes if treatment disrupts business operations, and the regulatory and documentation requirements that commercial property managers and owners must meet.
+Termites do not distinguish between a residential home and a commercial building. A multi-storey office block in Westlands, a warehouse in Industrial Area, a hotel in Upper Hill, or a retail complex in Eastleigh - all face the same threat from the subterranean termite colonies that exist in Nairobi's soils.
+
+What is different about commercial properties is the complexity of the treatment challenge, the higher stakes if treatment disrupts business operations, and the regulatory and documentation requirements that commercial property managers and owners must meet.
 
 Pestraid Kenya's commercial termite control service is specifically designed to address these challenges. Our team has delivered effective, low-disruption termite programmes to office blocks, hotels, hospitals, schools, factories, warehouses, and retail centres across Nairobi and beyond. This guide explains how commercial termite control works, what is involved, and why the approach must differ from standard residential treatment.
 
@@ -14,7 +16,7 @@ Pestraid Kenya's commercial termite control service is specifically designed to 
 
 ### Scale of Structures
 
-Commercial buildings in Nairobi are often large, multi-storey structures with complex internal layouts, service corridors, basement parking, and extensive underground utility infrastructure. The larger and more complex a building, the more potential entry points for termites — and the more difficult it is to create a complete soil barrier without specialist planning.
+Commercial buildings in Nairobi are often large, multi-storey structures with complex internal layouts, service corridors, basement parking, and extensive underground utility infrastructure. The larger and more complex a building, the more potential entry points for termites - and the more difficult it is to create a complete soil barrier without specialist planning.
 
 ### Continuous Occupation
 
@@ -42,15 +44,15 @@ For buildings with basement parking, basement levels are treated as a priority, 
 
 ### Method 2: Termite Baiting System
 
-For commercial buildings where drilling and soil disturbance are not feasible — including heritage buildings, buildings with fully tiled or paved perimeters, and buildings where foundation access is restricted by structural complexity — a perimeter baiting network is the primary treatment method.
+For commercial buildings where drilling and soil disturbance are not feasible - including heritage buildings, buildings with fully tiled or paved perimeters, and buildings where foundation access is restricted by structural complexity - a perimeter baiting network is the primary treatment method.
 
 Baiting is particularly well-suited to:
-- **Hotels and hospitality businesses** — treatment can be carried out without any guest disruption
-- **Hospitals and medical facilities** — no chemical odour, no drilling through wards
-- **Shopping malls** — monitoring stations installed in landscaped areas without disrupting retail operations
-- **Heritage or architecturally significant buildings** — no physical alteration to the structure
+- **Hotels and hospitality businesses** - treatment can be carried out without any guest disruption
+- **Hospitals and medical facilities** - no chemical odour, no drilling through wards
+- **Shopping malls** - monitoring stations installed in landscaped areas without disrupting retail operations
+- **Heritage or architecturally significant buildings** - no physical alteration to the structure
 
-The baiting programme includes quarterly monitoring visits, ensuring the property management team receives regular reports on termite activity and treatment status — valuable for insurance and compliance purposes.
+The baiting programme includes quarterly monitoring visits, ensuring the property management team receives regular reports on termite activity and treatment status - valuable for insurance and compliance purposes.
 
 ### Method 3: Internal Sub-Slab Injection
 
@@ -58,16 +60,16 @@ For large ground-floor slab areas in warehouses, factory floors, or retail store
 
 ### Method 4: Direct Wood Treatment
 
-For commercial fit-outs that include significant timber content — library shelving, timber ceiling systems, raised floor systems — Pestraid Kenya applies boron-based wood preservative treatments as a preventive measure, protecting the timber from future termite attack even if the primary soil barrier is eventually compromised.
+For commercial fit-outs that include significant timber content - library shelving, timber ceiling systems, raised floor systems - Pestraid Kenya applies boron-based wood preservative treatments as a preventive measure. This protects the timber from future termite attack even if the primary soil barrier is eventually compromised.
 
 ## Low-Disruption Treatment Scheduling for Commercial Premises
 
 Pestraid Kenya understands that business continuity is non-negotiable for commercial clients. Our commercial treatment scheduling options include:
 
-- **After-hours treatment** — exterior perimeter work carried out outside business hours
-- **Weekend treatment** — for offices and retail that are closed on weekends
-- **Phased section-by-section treatment** — for very large facilities, treatment is divided into sections carried out on successive days/weekends
-- **Minimal-footprint techniques** — small-diameter drilling, rapid-cure sealants, and low-odour product formulations minimize the visible impact on the business environment
+- **After-hours treatment** - exterior perimeter work carried out outside business hours
+- **Weekend treatment** - for offices and retail that are closed on weekends
+- **Phased section-by-section treatment** - for very large facilities, treatment is divided into sections carried out on successive days/weekends
+- **Minimal-footprint techniques** - small-diameter drilling, rapid-cure sealants, and low-odour product formulations minimize the visible impact on the business environment
 
 ## Industry-Specific Commercial Termite Control in Nairobi
 
@@ -114,10 +116,10 @@ Commercial treatment costs are always quoted after a site inspection, as the com
 
 | Building Type | Estimated Treatment Cost |
 |---|---|
-| Small office (up to 500m²) | KES 25,000 – 60,000 |
-| Medium commercial building (500–2,000m²) | KES 55,000 – 150,000 |
+| Small office (up to 500m²) | KES 25,000 - 60,000 |
+| Medium commercial building (500-2,000m²) | KES 55,000 - 150,000 |
 | Large commercial / industrial | Quoted per site |
-| Annual baiting maintenance contract | KES 15,000 – 50,000 per year |
+| Annual baiting maintenance contract | KES 15,000 - 50,000 per year |
 
 For broader pricing context, read [Termite Treatment Cost in Kenya](/blog/termite-treatment-cost-kenya) and [Termite Control Cost in Nairobi](/blog/termite-control-cost-nairobi).
 
@@ -125,7 +127,7 @@ For broader pricing context, read [Termite Treatment Cost in Kenya](/blog/termit
 
 ✅ Pre-treatment inspection and survey with detailed written report
 ✅ Customized Treatment and Monitoring Plan aligned to business operations
-✅ Low-disruption scheduling — after-hours, weekends, phased treatment
+✅ Low-disruption scheduling - after-hours, weekends, phased treatment
 ✅ PCPB-registered chemicals applied by licensed technicians
 ✅ Treatment completion report with photographic documentation
 ✅ Treatment certificate accepted by Kenyan insurers, lenders, and regulatory bodies
@@ -138,10 +140,10 @@ For broader pricing context, read [Termite Treatment Cost in Kenya](/blog/termit
 Yes. Pestraid Kenya specializes in occupied-building treatment. The exact approach is customized to your specific operational requirements.
 
 **How long does commercial treatment take?**
-This varies significantly by building size. A small office can be treated in one evening. A large warehouse or hotel may require a 3–5 day programme carried out in sections.
+This varies significantly by building size. A small office can be treated in one evening. A large warehouse or hotel may require a 3-5 day programme carried out in sections.
 
 **Will there be any odour or safety concerns for staff?**
-Modern non-repellent termiticides have minimal odour. Treated areas are safe for re-entry within 4–6 hours of application. For very sensitive environments (hospitals, food production), Pestraid Kenya specifies odour-free baiting solutions.
+Modern non-repellent termiticides have minimal odour. Treated areas are safe for re-entry within 4-6 hours of application. For very sensitive environments (hospitals, food production), Pestraid Kenya specifies odour-free baiting solutions.
 
 **Do you provide the treatment report in a format accepted by insurance companies?**
 Yes. Pestraid Kenya's treatment reports and warranty letters are formatted to meet the documentation requirements of Kenyan insurance providers and property management standards.
@@ -154,7 +156,7 @@ Do not allow Kenya's most destructive pest to threaten your business premises, y
 
 ### Contact Pestraid Kenya
 
-**Pestraid Kenya** — Commercial Termite Control Specialists across Kenya.
+**Pestraid Kenya** - Commercial Termite Control Specialists across Kenya.
 
 - 📞 **Phone / WhatsApp:** [0710 907 628](tel:+254710907628)
 - 📧 **Email:** [sales@pestraid.co.ke](mailto:sales@pestraid.co.ke)

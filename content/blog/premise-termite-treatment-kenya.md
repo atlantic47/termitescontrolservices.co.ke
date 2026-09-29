@@ -1,12 +1,12 @@
 ---
 title: "Premise Termite Treatment in Kenya: A Complete Guide to Imidacloprid Soil Barriers"
 date: "2026-09-29"
-excerpt: "Everything you need to know about Premise termite treatment in Kenya — how Imidacloprid works as a soil barrier termiticide, application process, longevity, safety, and how it compares to Termidor."
+excerpt: "Everything you need to know about Premise termite treatment in Kenya - how Imidacloprid works as a soil barrier termiticide, application process, longevity, safety, and how it compares to Termidor."
 ---
 
 # Premise Termite Treatment in Kenya: A Complete Guide to Imidacloprid Soil Barriers
 
-Among the professional termiticides registered for use in Kenya, Premise stands alongside Termidor as one of the most trusted and widely applied products in the Pest Control Products Board (PCPB) approved range. Manufactured by Bayer CropScience (now part of Envu), Premise 200SC contains Imidacloprid as its active ingredient — a systemic, non-repellent termiticide that creates a highly effective soil barrier and delivers colony elimination through the Transfer Effect.
+Among the professional termiticides registered for use in Kenya, Premise stands alongside Termidor as one of the most trusted and widely applied products in the Pest Control Products Board (PCPB) approved range. Manufactured by Bayer CropScience (now part of Envu), Premise 200SC contains Imidacloprid as its active ingredient - a systemic, non-repellent termiticide that creates a highly effective soil barrier and delivers colony elimination through the Transfer Effect.
 
 This guide provides a complete technical and practical overview of Premise termite treatment in Kenya: how it works, how it is applied, how it compares to alternatives, what it costs, and why Pestraid Kenya uses it as a primary treatment option for both pre-construction and post-construction termite control.
 
@@ -14,7 +14,7 @@ This guide provides a complete technical and practical overview of Premise termi
 
 Premise 200SC is a professional suspension concentrate termiticide containing **200 grams of Imidacloprid per litre** of formulation. In field application, it is diluted in water to a working concentration of approximately 0.05% Imidacloprid (50ml of Premise 200SC per 100 litres of water for most soil applications).
 
-Imidacloprid belongs to the **neonicotinoid** class of insecticides, which act on the nicotinic acetylcholine receptors in the insect nervous system. In termites, this disrupts neural transmission at a sub-lethal dose, causing disorientation, inability to feed, and ultimately death — but critically, this disruption is slow enough to allow the Transfer Effect to operate.
+Imidacloprid belongs to the **neonicotinoid** class of insecticides, which act on the nicotinic acetylcholine receptors in the insect nervous system. In termites, this disrupts neural transmission at a sub-lethal dose, causing disorientation, inability to feed, and ultimately death. Critically, this disruption is slow enough to allow the Transfer Effect to operate.
 
 ## The Transfer Effect: How Premise Eliminates Termite Colonies
 
@@ -25,8 +25,8 @@ Like Termidor (Fipronil), Premise is a **non-repellent termiticide**. This is th
 **Step 2:** Workers absorb a sub-lethal dose of Imidacloprid through contact with soil particles and through ingestion.
 
 **Step 3:** The affected workers return to the colony, where they interact with nestmates through:
-- **Trophallaxis** — the sharing of liquid food between nestmates, which transfers Imidacloprid in solution form
-- **Grooming** — mutual cleaning behaviour that transfers chemical from one cuticle to another
+- **Trophallaxis** - the sharing of liquid food between nestmates, which transfers Imidacloprid in solution form
+- **Grooming** - mutual cleaning behaviour that transfers chemical from one cuticle to another
 
 **Step 4:** Imidacloprid spreads progressively through the colony. Workers pass it to soldiers, nursery workers, and eventually to the reproductives.
 
@@ -42,8 +42,8 @@ Both are excellent, PCPB-registered, non-repellent termiticides with proven perf
 |---|---|---|
 | Active ingredient class | Neonicotinoid | Phenylpyrazole |
 | Transfer Effect strength | Good | Excellent |
-| Speed of colony elimination | 6–12 weeks | 4–8 weeks |
-| Soil residual (Kenya) | 3–7 years | 5–10 years |
+| Speed of colony elimination | 6-12 weeks | 4-8 weeks |
+| Soil residual (Kenya) | 3-7 years | 5-10 years |
 | Dilution rate flexibility | Wide range | More specific |
 | Cost per treatment | Moderate | Higher |
 | PCPB registration | Yes | Yes |
@@ -75,31 +75,31 @@ In some baiting system programmes, a low-concentration Premise solution is used 
 
 The effective lifespan of an Imidacloprid soil barrier in Kenyan conditions is approximately:
 
-- **Clay-rich soils** (common in Nairobi): 5–7 years
-- **Sandy loam soils** (Thika Road, coastal areas): 3–5 years
-- **High irrigation areas**: 3–4 years (higher water movement may leach Imidacloprid faster than Fipronil)
+- **Clay-rich soils** (common in Nairobi): 5-7 years
+- **Sandy loam soils** (Thika Road, coastal areas): 3-5 years
+- **High irrigation areas**: 3-4 years (higher water movement may leach Imidacloprid faster than Fipronil)
 
-Pestraid Kenya offers Premise treatment with a **3-year written warranty** including annual follow-up inspections. Renewal of treatment at the end of the warranty period is straightforward and typically costs less than the initial treatment (as the infrastructure is already in place).
+Pestraid Kenya offers Premise treatment with a **3-year written warranty** including annual follow-up inspections. Renewal of treatment at the end of the warranty period is straightforward and typically costs less than the initial treatment, as the infrastructure is already in place.
 
 ## Is Premise Safe for Use in Kenyan Homes?
 
 Yes. Imidacloprid is one of the most extensively safety-tested pesticide active ingredients in the world. Key safety facts relevant to Kenyan homeowners:
 
 - **Mammalian toxicity:** Low. Imidacloprid has a different mechanism of action in vertebrates than in insects. At field application concentrations, exposure risk to humans and pets is minimal.
-- **Soil binding:** Imidacloprid has moderate soil binding. Applied at depth (300–500mm), it does not pose a groundwater contamination risk under normal conditions.
+- **Soil binding:** Imidacloprid has moderate soil binding. Applied at depth (300-500mm), it does not pose a groundwater contamination risk under normal conditions.
 - **Re-entry:** Treated areas are safe for normal re-entry within 4 hours of treatment completion once soil surfaces have dried.
-- **Bee caution:** Imidacloprid is toxic to bees. Pestraid Kenya takes care to avoid treatment within 3–5 metres of active beehives or known bee foraging areas, in accordance with PCPB label requirements.
+- **Bee caution:** Imidacloprid is toxic to bees. Pestraid Kenya takes care to avoid treatment within 3-5 metres of active beehives or known bee foraging areas, in accordance with PCPB label requirements.
 - **Vegetable gardens:** We advise against treating soil within 1 metre of active food-growing beds; treatment is adjusted accordingly.
 
 ## What to Expect After a Premise Termite Treatment
 
-**Days 1–14:** Termites continue to forage through the treated zone. No visible changes.
+**Days 1-14:** Termites continue to forage through the treated zone. No visible changes.
 
-**Weeks 2–6:** Imidacloprid transfer within the colony begins affecting worker efficiency. Mud tube construction activity slows.
+**Weeks 2-6:** Imidacloprid transfer within the colony begins affecting worker efficiency. Mud tube construction activity slows.
 
-**Weeks 6–12:** Significant decline in termite activity. By week 8–10, foraging from the treated structure typically ceases entirely.
+**Weeks 6-12:** Significant decline in termite activity. By week 8-10, foraging from the treated structure typically ceases entirely.
 
-**Follow-up inspection (at 60–90 days):** Pestraid Kenya technicians revisit and verify the result. Any residual activity is addressed under warranty.
+**Follow-up inspection (at 60-90 days):** Pestraid Kenya technicians revisit and verify the result. Any residual activity is addressed under warranty.
 
 ## Premise for Specific Kenyan Property Types
 
@@ -109,7 +109,7 @@ Premise 200SC is an excellent, cost-effective choice for the pre-slab formation 
 
 ### For Existing Buildings (Post-Construction)
 
-Premise is the preferred treatment for mid-range residential properties in Nairobi and across Kenya where a 3–5 year effective barrier is adequate. It delivers colony elimination through the Transfer Effect at a cost point accessible to the majority of Kenyan homeowners.
+Premise is the preferred treatment for mid-range residential properties in Nairobi and across Kenya where a 3-5 year effective barrier is adequate. It delivers colony elimination through the Transfer Effect at a cost point accessible to the majority of Kenyan homeowners.
 
 ### For Apartment Buildings and Multi-Unit Developments
 
@@ -137,7 +137,7 @@ Whether you are building a new home, treating an existing building, or managing 
 
 ### Contact Pestraid Kenya
 
-**Pestraid Kenya** — Professional Premise (Imidacloprid) Termite Treatment across Kenya.
+**Pestraid Kenya** - Professional Premise (Imidacloprid) Termite Treatment across Kenya.
 
 - 📞 **Phone / WhatsApp:** [0710 907 628](tel:+254710907628)
 - 📧 **Email:** [sales@pestraid.co.ke](mailto:sales@pestraid.co.ke)

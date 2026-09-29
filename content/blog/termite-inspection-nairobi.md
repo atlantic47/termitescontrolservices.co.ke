@@ -15,12 +15,12 @@ At Pestraid Kenya, our specialist inspectors have assessed thousands of properti
 A termite inspection is a systematic, room-by-room, foundation-to-roof assessment of a property conducted by a licensed pest management professional. Its primary purpose is to detect:
 
 - **Active termite colonies** currently feeding within or beneath the structure
-- **Historic termite damage** — compromised timber, hollow door frames, buckled flooring
-- **Mud tubes** — the telltale earthen tunnels subterranean termites build to travel from soil to timber without exposure to air
-- **Entry points** — expansion joints, plumbing penetrations, foundation cracks, and wood-to-soil contact zones
-- **High-risk conditions** — areas of excess moisture, poor drainage, or structural vulnerability
+- **Historic termite damage** - compromised timber, hollow door frames, buckled flooring
+- **Mud tubes** - the telltale earthen tunnels subterranean termites build to travel from soil to timber without exposure to air
+- **Entry points** - expansion joints, plumbing penetrations, foundation cracks, and wood-to-soil contact zones
+- **High-risk conditions** - areas of excess moisture, poor drainage, or structural vulnerability
 
-In Nairobi, the dominant destructive species is *Macrotermes* (the mound-building termite common in open gardens and boundary walls) and *Coptotermes formosanus* (subterranean termite), both of which can devastate structural timber within 12–18 months of establishing a mature colony inside or beneath a building.
+In Nairobi, the dominant destructive species is *Macrotermes* (the mound-building termite common in open gardens and boundary walls) and *Coptotermes formosanus* (subterranean termite), both of which can devastate structural timber within 12-18 months of establishing a mature colony inside or beneath a building.
 
 ### Why Annual Inspections Are Non-Negotiable in Nairobi
 
@@ -29,9 +29,9 @@ Many Nairobi homeowners wait until visible damage appears before calling a pest 
 - Blistering paint on skirting boards and door frames
 - A hollow sound when tapping timber elements
 - Sagging floors or ceiling boards in localized patches
-- Swarms of winged alates inside the home during the March–May or October–November rains
+- Swarms of winged alates inside the home during the March-May or October-November rains
 
-...the colony has almost certainly been active for two to five years. At that stage, structural remediation costs can easily exceed KES 200,000–800,000 for a mid-sized Nairobi home — many times the cost of a preventive treatment applied years earlier.
+...the colony has almost certainly been active for two to five years. At that stage, structural remediation costs can easily exceed KES 200,000-800,000 for a mid-sized Nairobi home - many times the cost of a preventive treatment applied years earlier.
 
 ## What Happens During a Professional Termite Inspection in Nairobi
 
@@ -42,9 +42,9 @@ A thorough inspection by Pestraid Kenya's certified technicians follows a struct
 The inspection begins outside. The inspector walks the full perimeter of the property examining:
 
 - **Foundation walls** for mud tubes, earth mounds, or cracks at the base
-- **Garden beds and planting** adjacent to the structure — plants mulched directly against walls are a common entry highway for foraging workers
-- **Boundary walls and gate posts** — often the first structures to be colonized
-- **Drainage channels and downpipes** — moisture concentration attracts foraging termites year-round
+- **Garden beds and planting** adjacent to the structure - plants mulched directly against walls are a common entry highway for foraging workers
+- **Boundary walls and gate posts** - often the first structures to be colonized
+- **Drainage channels and downpipes** - moisture concentration attracts foraging termites year-round
 
 ### Phase 2: Sub-Floor and Slab Inspection
 
@@ -60,7 +60,7 @@ Every room is assessed systematically from the lowest to highest floor. The insp
 
 - Skirting boards and architraves by tapping and probing with a screwdriver
 - Built-in wardrobes, kitchen cabinets, and fitted furniture
-- Window and door frames — particularly timber frames in older Nairobi homes
+- Window and door frames - particularly timber frames in older Nairobi homes
 - Ceiling roses and cornices for mud tube tracks
 - Any timber flooring including solid hardwood, parquet, and engineered boards
 
@@ -82,12 +82,12 @@ Every inspection concludes with a detailed [Termite Inspection Report](/blog/ter
 
 Inspection fees in Nairobi typically range between **KES 3,000 and KES 8,000** depending on:
 
-- Property size — a one-bedroom apartment requires far less time than a five-bedroom house on a large compound
+- Property size - a one-bedroom apartment requires far less time than a five-bedroom house on a large compound
 - Number of storeys and accessibility of sub-floor and roof spaces
 - Whether a formal written report with photographs is required for a bank or legal process
 - Location within Nairobi or travel distance for surrounding counties
 
-This represents a very minor investment relative to the cost of [termite treatment for existing buildings](/blog/termite-treatment-existing-buildings) (KES 15,000–80,000+) or structural timber replacement. For a broader cost picture, see our detailed guide on [Termite Treatment Cost in Kenya](/blog/termite-treatment-cost-kenya).
+This represents a very minor investment relative to the cost of [termite treatment for existing buildings](/blog/termite-treatment-existing-buildings) (KES 15,000-80,000+) or structural timber replacement. For a broader cost picture, see our detailed guide on [Termite Treatment Cost in Kenya](/blog/termite-treatment-cost-kenya).
 
 ## Warning Signs That Should Prompt an Immediate Inspection
 
@@ -98,7 +98,7 @@ Do not wait for your scheduled annual check if you observe any of the following:
 3. **Hollow or papery sound** when tapping timber elements such as door frames, skirting boards, or flooring
 4. **Small piles of frass** (fine powdery termite excrement) near window sills or on the floor beside skirting boards
 5. **Paint bubbling or peeling** on wooden surfaces without an obvious moisture source
-6. **Doors or windows suddenly sticking** — can indicate warped timber frames due to internal termite feeding
+6. **Doors or windows suddenly sticking** - can indicate warped timber frames due to internal termite feeding
 7. **Visible damage** on outdoor wooden decking, pergolas, fence posts, or garden furniture
 
 If you have noticed any of these [signs of termite infestation in Kenya homes](/blog/signs-of-termite-infestation-in-kenya-homes), contact Pestraid Kenya immediately. Early action is the difference between a manageable treatment and a major structural repair.
@@ -111,7 +111,7 @@ Whether you are buying a house in Westlands, a townhouse in Kilimani, or a maiso
 
 ### Post-Rainy Season Inspections
 
-The long rains (March–May) and short rains (October–November) trigger mass alate swarming across Nairobi. Any property should be inspected within six to eight weeks of each rainy season ending to detect new colonies before they become established and begin causing structural damage.
+The long rains (March-May) and short rains (October-November) trigger mass alate swarming across Nairobi. Any property should be inspected within six to eight weeks of each rainy season ending to detect new colonies before they become established and begin causing structural damage.
 
 ### New Construction Sign-Off Inspections
 
@@ -120,7 +120,7 @@ Developers and individual homebuilders should commission a termite inspection af
 ## Frequently Asked Questions About Termite Inspection in Nairobi
 
 **How long does a termite inspection take?**
-A standard three-bedroom house typically takes 60–90 minutes. Larger properties or older houses with complex layouts may require two to three hours.
+A standard three-bedroom house typically takes 60-90 minutes. Larger properties or older houses with complex layouts may require two to three hours.
 
 **Do I need to vacate during the inspection?**
 No. Inspections are non-invasive and chemical-free. You may remain at home and accompany the inspector throughout if you wish.
@@ -139,7 +139,7 @@ Pestraid Kenya serves the entire Nairobi metropolitan area: Karen, Westlands, Ki
 
 ## Book Your Termite Inspection in Nairobi Today
 
-Do not gamble with the structural integrity of your most valuable asset. A professional termite inspection from Pestraid Kenya is fast, thorough, and affordable — and it could save you hundreds of thousands of shillings in avoidable repair costs. Browse all our [termite control services](/services) or read more on the [blog](/blog).
+Do not gamble with the structural integrity of your most valuable asset. A professional termite inspection from Pestraid Kenya is fast, thorough, and affordable - and it could save you hundreds of thousands of shillings in avoidable repair costs. Browse all our [termite control services](/services) or read more on the [blog](/blog).
 
 ---
 

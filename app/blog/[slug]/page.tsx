@@ -42,7 +42,7 @@ export default async function Post({ params }: { params: Promise<{ slug: string 
 
            {/* Markdown Content Block */}
            <div 
-             className="prose prose-lg prose-blue max-w-none prose-headings:font-heading prose-headings:uppercase prose-headings:text-navy prose-h2:text-3xl prose-h3:text-2xl prose-a:text-red prose-a:font-bold prose-a:no-underline hover:prose-a:underline"
+             className="blog-content"
              dangerouslySetInnerHTML={{ __html: postData.contentHtml }} 
            />
 

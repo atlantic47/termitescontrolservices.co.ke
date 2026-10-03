@@ -174,6 +174,8 @@ All prices quoted by Pestraid Kenya include VAT. Always confirm this when compar
 
 The best way to get an accurate termite treatment cost for your specific property is to book a [professional inspection](/services/termite-inspection-services). Pestraid Kenya will assess your property, identify the treatment method, and provide a detailed, fixed-price quote. Explore all our [termite control services](/services) or browse more on the [blog](/blog).
 
+**Looking to buy termite chemicals directly?** Browse our [termiticide shop](/shop) for Termidor 96SC, Premise 200SC, Metro 200SC, Termiguard 200SL and Undertaker 480EC - all PCPB-registered and available with Kenya-wide delivery.
+
 ---
 
 ### Contact Pestraid Kenya

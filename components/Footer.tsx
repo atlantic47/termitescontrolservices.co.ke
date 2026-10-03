@@ -55,6 +55,7 @@ export default function Footer() {
               <li><Link href="/" className="text-gray-300 hover:text-red transition-colors text-sm flex items-center"><ArrowRight className="h-3 w-3 mr-2" /> Home</Link></li>
               <li><Link href="/about" className="text-gray-300 hover:text-red transition-colors text-sm flex items-center"><ArrowRight className="h-3 w-3 mr-2" /> About Us</Link></li>
               <li><Link href="/services" className="text-gray-300 hover:text-red transition-colors text-sm flex items-center"><ArrowRight className="h-3 w-3 mr-2" /> Services</Link></li>
+              <li><Link href="/shop" className="text-gray-300 hover:text-red transition-colors text-sm flex items-center"><ArrowRight className="h-3 w-3 mr-2" /> Shop – Buy Termiticides</Link></li>
               <li><Link href="/blog" className="text-gray-300 hover:text-red transition-colors text-sm flex items-center"><ArrowRight className="h-3 w-3 mr-2" /> Blog</Link></li>
               <li><Link href="/contact" className="text-gray-300 hover:text-red transition-colors text-sm flex items-center"><ArrowRight className="h-3 w-3 mr-2" /> Contact Us</Link></li>
             </ul>

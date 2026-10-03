@@ -119,6 +119,8 @@ Yes, with appropriate precautions. Pestraid Kenya's technicians apply Termidor a
 
 For lasting protection from Kenya's destructive subterranean termites, choose the treatment that eliminates colonies rather than simply redirecting them. Explore all our [termite control services](/services) or read more expert guides on our [blog](/blog).
 
+**Ready to buy Termidor 96SC?** You can [purchase Termidor 96SC and other PCPB-registered termiticides directly from our shop](/shop#termidor-96sc) - with delivery across Kenya and expert advice available via WhatsApp.
+
 ---
 
 ### Contact Pestraid Kenya

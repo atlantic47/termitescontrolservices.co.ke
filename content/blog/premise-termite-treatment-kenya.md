@@ -133,6 +133,8 @@ Light rain is not a concern. Heavy rain saturating the treated zone within the f
 
 Whether you are building a new home, treating an existing building, or managing a multi-unit development, Pestraid Kenya's Premise termite treatment programme delivers proven colony elimination backed by a written warranty. Explore all our [termite control services](/services) or browse more expert articles on our [blog](/blog).
 
+**Want to buy Premise 200SC?** [Order Premise 200SC from our termiticide shop](/shop#premise-200sc) - Kenya-wide delivery available with expert dosage advice included.
+
 ---
 
 ### Contact Pestraid Kenya

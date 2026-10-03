@@ -146,6 +146,8 @@ Pestraid Kenya provides fixed-price, all-inclusive quotes after inspection. Ther
 
 Contact Pestraid Kenya to schedule a free inspection and receive a detailed, fixed-price termite control quote for your Nairobi property. Explore all our [termite control services](/services) or browse more guides on our [blog](/blog).
 
+**Want to purchase termite chemicals yourself?** Visit our [termiticide shop](/shop) to buy Termidor 96SC, Premise 200SC, Metro 200SC, Termiguard 200SL and Undertaker 480EC - with delivery to Nairobi and all major Kenyan towns.
+
 ---
 
 ### Contact Pestraid Kenya

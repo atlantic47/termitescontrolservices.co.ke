@@ -8,8 +8,12 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const montserrat = Montserrat({ subsets: ["latin"], variable: "--font-montserrat", weight: ["400", "500", "600", "700", "800", "900"] });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://termitescontrolservices.co.ke"),
   title: "Pestraid Kenya | Top-Rated Termite Control Services",
   description: "Get expert termite control with Pestraid Kenya. We offer professional termite treatments, inspections, and prevention for both homes and businesses.",
+  alternates: {
+    canonical: "/",
+  },
 };
 
 export default function RootLayout({

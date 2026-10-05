@@ -61,6 +61,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     console.error('Error reading blogs directory for sitemap:', error);
   }
 
+  // Shop listing + individual product pages
+  const shopRoutes = [
+    '',
+    '/termidor-96sc',
+    '/premise-200sc',
+    '/metro-200sc',
+    '/termiguard-200sl',
+    '/undertaker-480ec',
+  ].map((slug) => ({
+    url: `${baseUrl}/shop${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: slug === '' ? 0.9 : 0.85,
+  }));
+
   // Combine entirely into one sitemap
-  return [...staticRoutes, ...services, ...areas, ...blogs];
+  return [...staticRoutes, ...services, ...areas, ...shopRoutes, ...blogs];
 }
